@@ -4,12 +4,14 @@ import pandas as pd
 import time
 
 
-numbers = [470] 
+numbers = [402, 410, 412, 413, 416, 420, 421, 426, 429, 430, 431, 432, 433, 434, 435, 436, 438, 439, 440, 441, 442, 443, 444, 445, 446,
+           447, 448, 449, 450, 451, 452, 456, 461, 462, 463, 464, 465, 469, 470, 477, 485, 489, 491]  
 
 # Set up the WebDriver
 options = webdriver.FirefoxOptions()
 driver = webdriver.Firefox(options=options)
 
+CourseNum = []
 professors = []
 gpas = []
 As = []
@@ -26,7 +28,7 @@ for number in numbers:
     driver.get(url)
 
     # Get the HTML content after the page is loaded
-    time.sleep(5) 
+    time.sleep(2) 
 
     html = driver.page_source
 
@@ -52,7 +54,7 @@ for number in numbers:
         F = columns[10].text.strip()
         Q = columns[12].text.strip()
 
-        
+        CourseNum.append(number)
         professors.append(professor)
         gpas.append(gpa)
         As.append(A)
@@ -65,8 +67,12 @@ for number in numbers:
 
 driver.quit()
 
-data = {'Professor': professors, 'GPA': gpas, "A's": As, "B's": Bs, "C's": Cs, "D's": Ds, "E's": Es, "F's": Fs, "Q's": Qs}
+data = {'Course Number': CourseNum, 'Professor': professors, 'GPA': gpas, "As": As, "Bs": Bs, "Cs": Cs, "Ds": Ds, "Es": Es, "Fs": Fs, "Qs": Qs}
 df = pd.DataFrame(data)
 
 # Display the DataFrame
-print(df)
+#print(df)
+
+for index, row in df.iterrows():
+    print(f"Course Number: {row['Course Number']}, Professor: {row['Professor']}, GPA: {row['GPA']}, A's: {row['As']}, B's: {row['Bs']}, C's: {row['Cs']}, D's: {row['Ds']}, E's: {row['Es']}, F's: {row['Fs']}, Q's: {row['Qs']}")
+
