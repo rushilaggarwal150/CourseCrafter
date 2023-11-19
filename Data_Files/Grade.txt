@@ -1,0 +1,517 @@
+Course Number: 402, Professor: DEWITTE P, GPA: 3.944, A's: 51, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 402, Professor: DEWITTE P, GPA: 3.730, A's: 55, B's: 5, C's: 0, D's: 0, E's: 3, F's: 0, Q's: 0
+Course Number: 402, Professor: DEWITTE P, GPA: 3.905, A's: 68, B's: 5, C's: 1, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 402, Professor: DEWITTE P, GPA: 3.977, A's: 86, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 402, Professor: DEWITTE P, GPA: 3.655, A's: 51, B's: 2, C's: 1, D's: 0, E's: 4, F's: 0, Q's: 0
+Course Number: 402, Professor: DEWITTE P, GPA: 3.589, A's: 41, B's: 10, C's: 3, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 402, Professor: DEWITTE P, GPA: 3.278, A's: 18, B's: 14, C's: 2, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 410, Professor: TSAI C, GPA: 3.356, A's: 20, B's: 22, C's: 2, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.867, A's: 3, B's: 8, C's: 3, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 410, Professor: TSAI C, GPA: 2.793, A's: 23, B's: 16, C's: 10, D's: 2, E's: 7, F's: 0, Q's: 0
+Course Number: 410, Professor: HAMILTON J, GPA: 3.776, A's: 77, B's: 2, C's: 2, D's: 3, E's: 1, F's: 0, Q's: 0
+Course Number: 410, Professor: HAMILTON J, GPA: 3.630, A's: 23, B's: 1, C's: 1, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 3.194, A's: 20, B's: 8, C's: 5, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 410, Professor: DA SILVA D, GPA: 3.444, A's: 52, B's: 16, C's: 11, D's: 1, E's: 1, F's: 2, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.962, A's: 23, B's: 13, C's: 9, D's: 5, E's: 2, F's: 0, Q's: 0
+Course Number: 410, Professor: DA SILVA D, GPA: 3.704, A's: 66, B's: 9, C's: 4, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 410, Professor: DA SILVA D (H), GPA: 3.867, A's: 14, B's: 0, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 410, Professor: YUM K, GPA: 3.261, A's: 24, B's: 16, C's: 3, D's: 0, E's: 3, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.786, A's: 12, B's: 8, C's: 3, D's: 0, E's: 5, F's: 0, Q's: 0
+Course Number: 410, Professor: DA SILVA D, GPA: 3.531, A's: 57, B's: 15, C's: 6, D's: 1, E's: 2, F's: 2, Q's: 0
+Course Number: 410, Professor: DA SILVA D (H), GPA: 4.000, A's: 8, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.200, A's: 4, B's: 3, C's: 3, D's: 2, E's: 3, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 3.194, A's: 17, B's: 11, C's: 6, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.615, A's: 6, B's: 3, C's: 0, D's: 1, E's: 3, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 3.160, A's: 12, B's: 7, C's: 5, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 410, Professor: STOLERU R, GPA: 3.039, A's: 27, B's: 10, C's: 7, D's: 3, E's: 4, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.000, A's: 1, B's: 3, C's: 4, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.754, A's: 17, B's: 20, C's: 12, D's: 5, E's: 3, F's: 0, Q's: 0
+Course Number: 410, Professor: DA SILVA D, GPA: 2.458, A's: 14, B's: 13, C's: 9, D's: 5, E's: 7, F's: 0, Q's: 0
+Course Number: 410, Professor: DA SILVA D, GPA: 2.919, A's: 29, B's: 15, C's: 9, D's: 2, E's: 7, F's: 2, Q's: 0
+Course Number: 410, Professor: LEYK T, GPA: 3.152, A's: 16, B's: 22, C's: 7, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.545, A's: 4, B's: 8, C's: 7, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 410, Professor: BETTATI R, GPA: 2.794, A's: 12, B's: 13, C's: 2, D's: 4, E's: 3, F's: 0, Q's: 0
+Course Number: 412, Professor: LIGHTFOOT R, GPA: 3.867, A's: 80, B's: 8, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 412, Professor: LIGHTFOOT R (H), GPA: 4.000, A's: 10, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 412, Professor: LIGHTFOOT R, GPA: 3.722, A's: 61, B's: 14, C's: 4, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 412, Professor: LIGHTFOOT R (H), GPA: 4.000, A's: 15, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 3.382, A's: 35, B's: 27, C's: 4, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 420, Professor: CHOE Y, GPA: 3.311, A's: 44, B's: 30, C's: 16, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 3.129, A's: 29, B's: 20, C's: 8, D's: 2, E's: 3, F's: 0, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 3.500, A's: 45, B's: 22, C's: 6, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: CHOE Y, GPA: 3.470, A's: 47, B's: 32, C's: 2, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 3.167, A's: 29, B's: 17, C's: 11, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 3.393, A's: 46, B's: 26, C's: 11, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 3.111, A's: 39, B's: 27, C's: 21, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 420, Professor: CHOE Y, GPA: 2.938, A's: 16, B's: 31, C's: 14, D's: 3, E's: 0, F's: 5, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 3.000, A's: 25, B's: 37, C's: 17, D's: 4, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 2.800, A's: 11, B's: 6, C's: 2, D's: 4, E's: 2, F's: 0, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 2.846, A's: 19, B's: 25, C's: 14, D's: 6, E's: 1, F's: 1, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 2.619, A's: 24, B's: 23, C's: 23, D's: 9, E's: 5, F's: 0, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W (H), GPA: 3.294, A's: 11, B's: 2, C's: 3, D's: 0, E's: 1, F's: 1, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 2.890, A's: 28, B's: 30, C's: 17, D's: 1, E's: 6, F's: 1, Q's: 1
+Course Number: 420, Professor: DAUGHERITY W, GPA: 2.000, A's: 5, B's: 14, C's: 16, D's: 12, E's: 6, F's: 1, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 3.148, A's: 23, B's: 22, C's: 5, D's: 2, E's: 2, F's: 0, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 3.218, A's: 27, B's: 19, C's: 3, D's: 6, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 2.745, A's: 16, B's: 16, C's: 8, D's: 1, E's: 6, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 2.980, A's: 16, B's: 23, C's: 6, D's: 4, E's: 1, F's: 0, Q's: 0
+Course Number: 420, Professor: WARD R, GPA: 3.103, A's: 23, B's: 21, C's: 11, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D (H), GPA: 3.769, A's: 10, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 3.245, A's: 20, B's: 28, C's: 3, D's: 2, E's: 0, F's: 1, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 3.000, A's: 7, B's: 6, C's: 4, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 420, Professor: WARD R, GPA: 2.690, A's: 7, B's: 10, C's: 10, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D (H), GPA: 3.867, A's: 13, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 2.957, A's: 18, B's: 12, C's: 14, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 2.667, A's: 6, B's: 3, C's: 3, D's: 1, E's: 2, F's: 4, Q's: 0
+Course Number: 420, Professor: IOERGER T, GPA: 3.103, A's: 21, B's: 26, C's: 9, D's: 0, E's: 2, F's: 1, Q's: 0
+Course Number: 420, Professor: SHELL D, GPA: 3.000, A's: 21, B's: 15, C's: 7, D's: 1, E's: 4, F's: 0, Q's: 0
+Course Number: 420, Professor: DAUGHERITY W, GPA: 3.316, A's: 12, B's: 3, C's: 2, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 420, Professor: MURPHY R, GPA: 3.206, A's: 15, B's: 14, C's: 3, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 421, Professor: MORTAZAVI B, GPA: 3.494, A's: 46, B's: 25, C's: 5, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 421, Professor: MORTAZAVI B (H), GPA: 3.867, A's: 13, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHASPARI T, GPA: 3.895, A's: 80, B's: 3, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHASPARI T (H), GPA: 4.000, A's: 13, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHOE Y, GPA: 3.513, A's: 50, B's: 23, C's: 6, D's: 0, E's: 1, F's: 1, Q's: 0
+Course Number: 421, Professor: CHOE Y (H), GPA: 3.667, A's: 4, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: MORTAZAVI B, GPA: 3.099, A's: 32, B's: 21, C's: 12, D's: 5, E's: 1, F's: 1, Q's: 0
+Course Number: 421, Professor: SHARON G, GPA: 2.961, A's: 29, B's: 26, C's: 11, D's: 9, E's: 1, F's: 0, Q's: 0
+Course Number: 421, Professor: MORTAZAVI B (H), GPA: 3.857, A's: 12, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHOE Y, GPA: 3.281, A's: 44, B's: 30, C's: 13, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 421, Professor: MORTAZAVI B, GPA: 3.462, A's: 52, B's: 19, C's: 5, D's: 2, E's: 2, F's: 0, Q's: 0
+Course Number: 421, Professor: MORTAZAVI B (H), GPA: 3.800, A's: 4, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHASPARI T, GPA: 3.933, A's: 28, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: WANG Z, GPA: 3.805, A's: 33, B's: 8, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: WANG Z (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHASPARI T, GPA: 3.792, A's: 45, B's: 6, C's: 1, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 421, Professor: CHASPARI T (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 430, Professor: KEYSER J (H), GPA: 3.538, A's: 10, B's: 1, C's: 1, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 430, Professor: KEYSER J, GPA: 3.231, A's: 22, B's: 9, C's: 4, D's: 3, E's: 1, F's: 3, Q's: 0
+Course Number: 430, Professor: KEYSER J (H), GPA: 3.462, A's: 8, B's: 3, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 430, Professor: KEYSER J, GPA: 3.097, A's: 34, B's: 9, C's: 13, D's: 3, E's: 3, F's: 1, Q's: 0
+Course Number: 430, Professor: KEYSER J (H), GPA: 3.643, A's: 10, B's: 3, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 430, Professor: KEYSER J, GPA: 2.952, A's: 21, B's: 4, C's: 12, D's: 4, E's: 1, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.550, A's: 13, B's: 6, C's: 0, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.667, A's: 12, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.778, A's: 14, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 4.000, A's: 14, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.842, A's: 16, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.400, A's: 9, B's: 5, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.857, A's: 12, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.727, A's: 16, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.850, A's: 17, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.667, A's: 17, B's: 3, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.700, A's: 22, B's: 7, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.684, A's: 15, B's: 2, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.818, A's: 18, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.783, A's: 19, B's: 3, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.905, A's: 19, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.750, A's: 13, B's: 2, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.952, A's: 20, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.857, A's: 19, B's: 1, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.882, A's: 15, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.889, A's: 16, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.848, A's: 28, B's: 5, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.778, A's: 22, B's: 4, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.897, A's: 35, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.917, A's: 34, B's: 1, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.571, A's: 8, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.706, A's: 26, B's: 6, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.947, A's: 36, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WADE P, GPA: 3.775, A's: 32, B's: 7, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.217, A's: 7, B's: 14, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: NOWAK M, GPA: 3.379, A's: 14, B's: 12, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: NOWAK M, GPA: 3.300, A's: 7, B's: 12, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: NOWAK M, GPA: 3.633, A's: 20, B's: 9, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: NOWAK M, GPA: 3.700, A's: 22, B's: 7, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 2.794, A's: 2, B's: 26, C's: 4, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 2.848, A's: 5, B's: 20, C's: 6, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.030, A's: 7, B's: 20, C's: 6, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.500, A's: 12, B's: 6, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 3.088, A's: 16, B's: 8, C's: 7, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 3.188, A's: 9, B's: 20, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 2.938, A's: 8, B's: 16, C's: 6, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.867, A's: 13, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.286, A's: 14, B's: 10, C's: 2, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 2.962, A's: 12, B's: 6, C's: 4, D's: 3, E's: 1, F's: 0, Q's: 0
+Course Number: 431, Professor: RITCHEY P, GPA: 3.400, A's: 15, B's: 12, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 3.455, A's: 22, B's: 6, C's: 3, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 3.577, A's: 16, B's: 9, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 2.974, A's: 7, B's: 25, C's: 4, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: HUANG S, GPA: 3.075, A's: 11, B's: 22, C's: 6, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WALKER D, GPA: 3.409, A's: 12, B's: 8, C's: 1, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WALKER D, GPA: 3.474, A's: 10, B's: 8, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WALKER D, GPA: 3.500, A's: 12, B's: 9, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WALKER D, GPA: 3.459, A's: 21, B's: 12, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: WALKER D, GPA: 3.667, A's: 25, B's: 7, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 431, Professor: JARVI J, GPA: 3.444, A's: 13, B's: 13, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: JARVI J, GPA: 3.438, A's: 16, B's: 14, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: JARVI J, GPA: 3.048, A's: 8, B's: 7, C's: 5, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 431, Professor: JARVI J, GPA: 2.931, A's: 7, B's: 16, C's: 3, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 433, Professor: CHEN J, GPA: 2.800, A's: 6, B's: 13, C's: 10, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 433, Professor: WELCH J, GPA: 3.143, A's: 9, B's: 8, C's: 3, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 433, Professor: WELCH J, GPA: 2.971, A's: 12, B's: 13, C's: 7, D's: 3, E's: 0, F's: 3, Q's: 0
+Course Number: 433, Professor: WELCH J, GPA: 2.783, A's: 8, B's: 8, C's: 3, D's: 2, E's: 2, F's: 0, Q's: 0
+Course Number: 433, Professor: WELCH J, GPA: 2.406, A's: 8, B's: 9, C's: 7, D's: 4, E's: 4, F's: 0, Q's: 0
+Course Number: 433, Professor: WILLIAMS T, GPA: 2.806, A's: 9, B's: 14, C's: 11, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 433, Professor: WILLIAMS T, GPA: 3.050, A's: 15, B's: 16, C's: 6, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 433, Professor: WILLIAMS T, GPA: 3.000, A's: 3, B's: 6, C's: 3, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 433, Professor: SZE S, GPA: 3.222, A's: 11, B's: 13, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 433, Professor: WILLIAMS T, GPA: 2.950, A's: 6, B's: 8, C's: 5, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 433, Professor: SZE S, GPA: 3.333, A's: 10, B's: 8, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 434, Professor: NGUYEN K, GPA: 2.714, A's: 4, B's: 4, C's: 5, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 434, Professor: MCGUIRE T, GPA: 3.152, A's: 36, B's: 14, C's: 9, D's: 4, E's: 3, F's: 0, Q's: 0
+Course Number: 434, Professor: HORDEMANN G, GPA: 2.500, A's: 9, B's: 4, C's: 3, D's: 1, E's: 5, F's: 0, Q's: 0
+Course Number: 434, Professor: RAUCHWERGER L, GPA: 2.882, A's: 9, B's: 4, C's: 0, D's: 1, E's: 3, F's: 0, Q's: 0
+Course Number: 434, Professor: HORDEMANN G, GPA: 2.895, A's: 9, B's: 3, C's: 5, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 434, Professor: RAUCHWERGER L, GPA: 2.615, A's: 8, B's: 0, C's: 1, D's: 0, E's: 4, F's: 0, Q's: 0
+Course Number: 434, Professor: RAUCHWERGER L, GPA: 3.188, A's: 11, B's: 1, C's: 1, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 434, Professor: RAUCHWERGER L, GPA: 1.615, A's: 3, B's: 3, C's: 0, D's: 0, E's: 7, F's: 0, Q's: 0
+Course Number: 434, Professor: RAUCHWERGER L (H), GPA: 3.333, A's: 5, B's: 0, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 434, Professor: RAUCHWERGER L, GPA: 1.938, A's: 3, B's: 4, C's: 2, D's: 3, E's: 4, F's: 0, Q's: 0
+Course Number: 435, Professor: PEARCE O, GPA: 3.796, A's: 78, B's: 11, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.063, A's: 20, B's: 3, C's: 2, D's: 5, E's: 2, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.973, A's: 36, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: PEARCE O, GPA: 3.946, A's: 53, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.296, A's: 17, B's: 5, C's: 2, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.775, A's: 34, B's: 5, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.438, A's: 23, B's: 4, C's: 3, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V (H), GPA: 3.273, A's: 19, B's: 10, C's: 1, D's: 0, E's: 3, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.344, A's: 19, B's: 6, C's: 6, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.368, A's: 32, B's: 16, C's: 7, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.630, A's: 21, B's: 4, C's: 0, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.478, A's: 15, B's: 4, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.294, A's: 14, B's: 16, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 435, Professor: DAVIS T, GPA: 2.863, A's: 19, B's: 17, C's: 8, D's: 3, E's: 4, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 2.842, A's: 10, B's: 16, C's: 9, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 435, Professor: DAVIS T, GPA: 3.026, A's: 16, B's: 13, C's: 5, D's: 5, E's: 0, F's: 1, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.310, A's: 23, B's: 14, C's: 2, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 3.138, A's: 20, B's: 30, C's: 5, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 2.833, A's: 9, B's: 40, C's: 5, D's: 4, E's: 2, F's: 0, Q's: 0
+Course Number: 435, Professor: SARIN V, GPA: 2.759, A's: 8, B's: 30, C's: 13, D's: 1, E's: 2, F's: 1, Q's: 0
+Course Number: 436, Professor: KIM J (H), GPA: 3.900, A's: 28, B's: 1, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.875, A's: 80, B's: 5, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J (H), GPA: 4.000, A's: 11, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: KIM J, GPA: 3.869, A's: 73, B's: 11, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: KIM J (H), GPA: 4.000, A's: 16, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.813, A's: 78, B's: 18, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: KIM J, GPA: 3.820, A's: 73, B's: 16, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: KIM J (H), GPA: 4.000, A's: 10, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.811, A's: 83, B's: 8, C's: 3, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 436, Professor: KIM J, GPA: 3.875, A's: 49, B's: 7, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.510, A's: 65, B's: 22, C's: 9, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.469, A's: 59, B's: 31, C's: 4, D's: 3, E's: 1, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.418, A's: 28, B's: 23, C's: 3, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.569, A's: 38, B's: 15, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.542, A's: 33, B's: 25, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: MOORE J, GPA: 3.589, A's: 60, B's: 32, C's: 2, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: FURUTA R, GPA: 3.438, A's: 54, B's: 24, C's: 8, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 436, Professor: SHIPMAN F, GPA: 3.733, A's: 45, B's: 14, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: HAMMOND T, GPA: 3.440, A's: 25, B's: 23, C's: 1, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 436, Professor: HAMMOND T, GPA: 3.000, A's: 6, B's: 2, C's: 1, D's: 1, E's: 1, F's: 1, Q's: 0
+Course Number: 438, Professor: STOLERU R, GPA: 2.906, A's: 25, B's: 16, C's: 17, D's: 4, E's: 2, F's: 0, Q's: 0
+Course Number: 438, Professor: STOLERU R (H), GPA: 3.667, A's: 6, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 438, Professor: STOLERU R, GPA: 3.214, A's: 20, B's: 30, C's: 5, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 438, Professor: STOLERU R, GPA: 2.880, A's: 14, B's: 22, C's: 10, D's: 2, E's: 2, F's: 0, Q's: 0
+Course Number: 438, Professor: STOLERU R, GPA: 2.813, A's: 13, B's: 21, C's: 8, D's: 4, E's: 2, F's: 0, Q's: 0
+Course Number: 438, Professor: STOLERU R, GPA: 2.729, A's: 10, B's: 22, C's: 11, D's: 3, E's: 2, F's: 0, Q's: 0
+Course Number: 438, Professor: MOORE J, GPA: 3.094, A's: 17, B's: 26, C's: 8, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 438, Professor: CAVERLEE J, GPA: 3.500, A's: 34, B's: 24, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 438, Professor: STOLERU R, GPA: 3.111, A's: 15, B's: 14, C's: 5, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 440, Professor: KLAPPENECKER A, GPA: 3.615, A's: 19, B's: 6, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 440, Professor: KLAPPENECKER A, GPA: 3.280, A's: 17, B's: 3, C's: 2, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 440, Professor: SONG F, GPA: 3.111, A's: 4, B's: 3, C's: 1, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 440, Professor: KLAPPENECKER A, GPA: 3.571, A's: 8, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 440, Professor: KLAPPENECKER A, GPA: 3.474, A's: 11, B's: 6, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 440, Professor: KLAPPENECKER A, GPA: 3.667, A's: 10, B's: 5, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: SUEDA S (H), GPA: 3.786, A's: 11, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: KHADEMI KALANTARI N, GPA: 2.608, A's: 27, B's: 16, C's: 24, D's: 2, E's: 10, F's: 0, Q's: 0
+Course Number: 441, Professor: KHADEMI KALANTARI N (H), GPA: 3.700, A's: 7, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: SUEDA S, GPA: 3.303, A's: 41, B's: 12, C's: 8, D's: 2, E's: 3, F's: 1, Q's: 0
+Course Number: 441, Professor: SUEDA S (H), GPA: 3.643, A's: 11, B's: 1, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: KHADEMI KALANTARI N, GPA: 3.103, A's: 17, B's: 15, C's: 3, D's: 2, E's: 2, F's: 1, Q's: 0
+Course Number: 441, Professor: SUEDA S, GPA: 3.159, A's: 35, B's: 18, C's: 10, D's: 4, E's: 2, F's: 0, Q's: 0
+Course Number: 441, Professor: SUEDA S (H), GPA: 3.636, A's: 7, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: KHADEMI KALANTARI N, GPA: 2.762, A's: 14, B's: 12, C's: 11, D's: 2, E's: 3, F's: 0, Q's: 0
+Course Number: 441, Professor: SUEDA S, GPA: 2.333, A's: 12, B's: 8, C's: 10, D's: 6, E's: 6, F's: 1, Q's: 0
+Course Number: 441, Professor: SUEDA S (H), GPA: 4.000, A's: 7, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: KHADEMI KALANTARI N, GPA: 2.537, A's: 19, B's: 11, C's: 13, D's: 2, E's: 9, F's: 2, Q's: 0
+Course Number: 441, Professor: SUEDA S, GPA: 2.721, A's: 18, B's: 8, C's: 8, D's: 5, E's: 4, F's: 1, Q's: 0
+Course Number: 441, Professor: KEYSER J, GPA: 2.320, A's: 11, B's: 12, C's: 14, D's: 8, E's: 5, F's: 0, Q's: 0
+Course Number: 441, Professor: SUEDA S, GPA: 2.620, A's: 19, B's: 7, C's: 14, D's: 6, E's: 4, F's: 2, Q's: 0
+Course Number: 441, Professor: SCHAEFER S, GPA: 2.526, A's: 11, B's: 14, C's: 3, D's: 4, E's: 6, F's: 0, Q's: 0
+Course Number: 441, Professor: SUEDA S, GPA: 2.851, A's: 15, B's: 13, C's: 16, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 441, Professor: SCHAEFER S, GPA: 2.447, A's: 16, B's: 11, C's: 7, D's: 4, E's: 9, F's: 1, Q's: 0
+Course Number: 441, Professor: CHAI J, GPA: 2.500, A's: 12, B's: 8, C's: 12, D's: 4, E's: 4, F's: 3, Q's: 0
+Course Number: 441, Professor: CHAI J, GPA: 2.067, A's: 10, B's: 11, C's: 6, D's: 8, E's: 10, F's: 1, Q's: 0
+Course Number: 441, Professor: CHAI J, GPA: 2.317, A's: 14, B's: 8, C's: 3, D's: 9, E's: 7, F's: 0, Q's: 0
+Course Number: 441, Professor: SCHAEFER S, GPA: 2.341, A's: 14, B's: 12, C's: 5, D's: 1, E's: 12, F's: 1, Q's: 0
+Course Number: 441, Professor: SCHAEFER S, GPA: 2.100, A's: 17, B's: 6, C's: 8, D's: 3, E's: 16, F's: 0, Q's: 0
+Course Number: 441, Professor: SCHAEFER S, GPA: 1.952, A's: 6, B's: 10, C's: 9, D's: 10, E's: 7, F's: 1, Q's: 0
+Course Number: 441, Professor: CHAI J, GPA: 2.609, A's: 14, B's: 11, C's: 14, D's: 3, E's: 4, F's: 0, Q's: 0
+Course Number: 441, Professor: CHAI J, GPA: 2.609, A's: 17, B's: 14, C's: 4, D's: 2, E's: 9, F's: 2, Q's: 0
+Course Number: 441, Professor: SCHAEFER S, GPA: 2.370, A's: 11, B's: 16, C's: 6, D's: 5, E's: 8, F's: 0, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 4.000, A's: 7, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: ANDREASSON M, GPA: 3.778, A's: 7, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 4.000, A's: 9, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: SUEDA S, GPA: 3.684, A's: 14, B's: 4, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 3.833, A's: 5, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: ANDREASSON M, GPA: 3.545, A's: 6, B's: 5, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 3.846, A's: 12, B's: 0, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: GOOCH B, GPA: 3.650, A's: 31, B's: 6, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 443, Professor: GOOCH B, GPA: 3.541, A's: 55, B's: 11, C's: 4, D's: 1, E's: 3, F's: 1, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 4.000, A's: 16, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 4.000, A's: 19, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: THOMAS A, GPA: 4.000, A's: 12, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: SALEEM W, GPA: 3.400, A's: 8, B's: 5, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: SCHAEFER S, GPA: 3.571, A's: 8, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 443, Professor: BRACKENRIDGE R, GPA: 3.438, A's: 7, B's: 9, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.737, A's: 31, B's: 4, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: FURUTA R, GPA: 3.760, A's: 40, B's: 8, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: FURUTA R (H), GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.768, A's: 45, B's: 9, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: FURUTA R, GPA: 3.096, A's: 18, B's: 23, C's: 9, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: FURUTA R, GPA: 3.119, A's: 21, B's: 28, C's: 7, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.759, A's: 45, B's: 12, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.717, A's: 37, B's: 7, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.862, A's: 25, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.780, A's: 40, B's: 9, C's: 1, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.730, A's: 28, B's: 8, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.536, A's: 19, B's: 5, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 445, Professor: SHIPMAN F, GPA: 3.895, A's: 17, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 446, Professor: SEO J, GPA: 3.833, A's: 5, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 447, Professor: SHIPMAN F, GPA: 3.789, A's: 33, B's: 4, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 447, Professor: MCNAMARA A, GPA: 3.400, A's: 2, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.522, A's: 24, B's: 22, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.481, A's: 13, B's: 14, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.385, A's: 12, B's: 12, C's: 2, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.730, A's: 27, B's: 10, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.462, A's: 17, B's: 7, C's: 0, D's: 1, E's: 1, F's: 1, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.524, A's: 14, B's: 4, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 3.000, A's: 4, B's: 3, C's: 2, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 451, Professor: LIU J, GPA: 2.968, A's: 12, B's: 8, C's: 9, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 3.615, A's: 17, B's: 8, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 452, Professor: YEH S, GPA: 3.378, A's: 22, B's: 18, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 3.260, A's: 20, B's: 23, C's: 7, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 3.000, A's: 12, B's: 20, C's: 8, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 2.962, A's: 15, B's: 21, C's: 15, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 2.882, A's: 7, B's: 17, C's: 9, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 3.083, A's: 6, B's: 14, C's: 4, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 452, Professor: SONG D, GPA: 3.362, A's: 25, B's: 17, C's: 3, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 461, Professor: JAFARI R, GPA: 3.000, A's: 1, B's: 3, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.235, A's: 13, B's: 16, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 2.818, A's: 4, B's: 3, C's: 3, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.464, A's: 19, B's: 5, C's: 3, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.364, A's: 10, B's: 10, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.424, A's: 19, B's: 11, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.188, A's: 6, B's: 7, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.633, A's: 20, B's: 9, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.129, A's: 10, B's: 17, C's: 3, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.382, A's: 17, B's: 13, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.077, A's: 12, B's: 8, C's: 4, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.333, A's: 12, B's: 12, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.633, A's: 19, B's: 11, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.611, A's: 22, B's: 14, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.488, A's: 24, B's: 16, C's: 3, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.385, A's: 20, B's: 14, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.542, A's: 15, B's: 7, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.318, A's: 11, B's: 9, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.615, A's: 17, B's: 8, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.444, A's: 16, B's: 7, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: MAHAPATRA R, GPA: 3.000, A's: 4, B's: 12, C's: 2, D's: 1, E's: 0, F's: 1, Q's: 0
+Course Number: 462, Professor: MAHAPATRA R, GPA: 3.059, A's: 5, B's: 8, C's: 4, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 462, Professor: MAHAPATRA R, GPA: 3.200, A's: 4, B's: 4, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.346, A's: 15, B's: 5, C's: 6, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 2.852, A's: 8, B's: 9, C's: 9, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.524, A's: 13, B's: 6, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.136, A's: 8, B's: 9, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.522, A's: 16, B's: 3, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 2.769, A's: 3, B's: 4, C's: 6, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.400, A's: 11, B's: 6, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.409, A's: 12, B's: 7, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.500, A's: 13, B's: 4, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.316, A's: 7, B's: 11, C's: 1, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.647, A's: 11, B's: 6, C's: 0, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.313, A's: 9, B's: 3, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.063, A's: 5, B's: 7, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.294, A's: 10, B's: 2, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.056, A's: 6, B's: 7, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 2.947, A's: 7, B's: 6, C's: 5, D's: 0, E's: 1, F's: 2, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.647, A's: 11, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.278, A's: 5, B's: 13, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.100, A's: 2, B's: 7, C's: 1, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.800, A's: 8, B's: 2, C's: 0, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.462, A's: 8, B's: 3, C's: 2, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.125, A's: 7, B's: 4, C's: 5, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.857, A's: 12, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 462, Professor: LIU J, GPA: 3.167, A's: 6, B's: 4, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 3.304, A's: 14, B's: 5, C's: 2, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.889, A's: 14, B's: 5, C's: 3, D's: 1, E's: 4, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 3.478, A's: 15, B's: 6, C's: 1, D's: 0, E's: 1, F's: 1, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 3.071, A's: 16, B's: 3, C's: 5, D's: 3, E's: 1, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 3.393, A's: 18, B's: 5, C's: 4, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.923, A's: 9, B's: 12, C's: 2, D's: 0, E's: 3, F's: 1, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.667, A's: 9, B's: 5, C's: 6, D's: 1, E's: 3, F's: 1, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.294, A's: 4, B's: 2, C's: 6, D's: 5, E's: 0, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 3.074, A's: 16, B's: 5, C's: 2, D's: 0, E's: 4, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.960, A's: 12, B's: 6, C's: 3, D's: 2, E's: 2, F's: 1, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.395, A's: 10, B's: 10, C's: 8, D's: 5, E's: 5, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 1.882, A's: 2, B's: 3, C's: 6, D's: 3, E's: 3, F's: 0, Q's: 0
+Course Number: 463, Professor: LOGUINOV D, GPA: 2.545, A's: 2, B's: 5, C's: 2, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 3.096, A's: 18, B's: 23, C's: 9, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 3.000, A's: 17, B's: 25, C's: 12, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 3.000, A's: 19, B's: 23, C's: 12, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 464, Professor: ALTAWEEL A, GPA: 2.674, A's: 16, B's: 9, C's: 10, D's: 4, E's: 4, F's: 0, Q's: 0
+Course Number: 464, Professor: AGUMBE SURESH M, GPA: 3.098, A's: 24, B's: 11, C's: 14, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 2.519, A's: 8, B's: 21, C's: 15, D's: 6, E's: 2, F's: 1, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 2.736, A's: 17, B's: 33, C's: 12, D's: 6, E's: 4, F's: 0, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 3.326, A's: 19, B's: 23, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 464, Professor: STOLERU R, GPA: 3.413, A's: 27, B's: 13, C's: 5, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 465, Professor: CARLISLE M (H), GPA: 3.923, A's: 12, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: ZHANG Y, GPA: 3.013, A's: 21, B's: 44, C's: 11, D's: 3, E's: 1, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.884, A's: 16, B's: 16, C's: 6, D's: 0, E's: 5, F's: 0, Q's: 0
+Course Number: 465, Professor: ZHANG Y (H), GPA: 3.455, A's: 5, B's: 6, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: CARLISLE M, GPA: 2.989, A's: 30, B's: 39, C's: 12, D's: 5, E's: 3, F's: 0, Q's: 0
+Course Number: 465, Professor: HOUNGNINOU D, GPA: 3.391, A's: 52, B's: 25, C's: 14, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: HOUNGNINOU D (H), GPA: 3.625, A's: 5, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: ZHANG Y, GPA: 2.865, A's: 11, B's: 25, C's: 14, D's: 2, E's: 0, F's: 1, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.824, A's: 19, B's: 32, C's: 18, D's: 1, E's: 4, F's: 0, Q's: 0
+Course Number: 465, Professor: ZHANG Y (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: DA SILVA D, GPA: 3.670, A's: 68, B's: 15, C's: 3, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 465, Professor: DA SILVA D (H), GPA: 3.900, A's: 9, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.987, A's: 30, B's: 25, C's: 11, D's: 7, E's: 2, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G (H), GPA: 3.600, A's: 3, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: CARLISLE M, GPA: 3.356, A's: 41, B's: 40, C's: 9, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: ZHANG Y, GPA: 3.200, A's: 20, B's: 28, C's: 6, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 465, Professor: CARLISLE M (H), GPA: 4.000, A's: 10, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.767, A's: 31, B's: 23, C's: 17, D's: 11, E's: 4, F's: 0, Q's: 0
+Course Number: 465, Professor: HONG S, GPA: 3.197, A's: 30, B's: 37, C's: 5, D's: 2, E's: 2, F's: 1, Q's: 0
+Course Number: 465, Professor: MENDOZA A, GPA: 3.391, A's: 43, B's: 44, C's: 4, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 465, Professor: MENDOZA A, GPA: 3.269, A's: 45, B's: 30, C's: 17, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.813, A's: 21, B's: 34, C's: 17, D's: 5, E's: 3, F's: 0, Q's: 0
+Course Number: 465, Professor: RAGSDALE D, GPA: 3.558, A's: 61, B's: 28, C's: 4, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: RITCHEY P, GPA: 2.844, A's: 19, B's: 11, C's: 7, D's: 5, E's: 3, F's: 1, Q's: 0
+Course Number: 465, Professor: RAGSDALE D, GPA: 3.379, A's: 54, B's: 27, C's: 11, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 465, Professor: RITCHEY P, GPA: 2.942, A's: 26, B's: 27, C's: 8, D's: 2, E's: 6, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.947, A's: 15, B's: 27, C's: 12, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 2.862, A's: 18, B's: 22, C's: 12, D's: 4, E's: 2, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 3.175, A's: 25, B's: 23, C's: 6, D's: 0, E's: 3, F's: 0, Q's: 0
+Course Number: 465, Professor: GU G, GPA: 3.169, A's: 24, B's: 25, C's: 7, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 469, Professor: KIM E, GPA: 3.167, A's: 10, B's: 3, C's: 3, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 469, Professor: TERAN E, GPA: 3.429, A's: 9, B's: 2, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: HUANG R (H), GPA: 3.200, A's: 1, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: HUANG R, GPA: 3.478, A's: 43, B's: 16, C's: 6, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 470, Professor: HUANG R, GPA: 3.069, A's: 33, B's: 19, C's: 15, D's: 2, E's: 3, F's: 1, Q's: 0
+Course Number: 470, Professor: HU X, GPA: 3.494, A's: 43, B's: 32, C's: 4, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: HU X, GPA: 3.472, A's: 44, B's: 43, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: HUANG R, GPA: 3.289, A's: 25, B's: 5, C's: 4, D's: 2, E's: 2, F's: 0, Q's: 0
+Course Number: 470, Professor: CAVERLEE J, GPA: 3.505, A's: 56, B's: 40, C's: 1, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 470, Professor: HU X, GPA: 3.508, A's: 32, B's: 25, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: CAVERLEE J, GPA: 3.362, A's: 36, B's: 14, C's: 4, D's: 1, E's: 3, F's: 0, Q's: 0
+Course Number: 470, Professor: HU X, GPA: 3.672, A's: 44, B's: 19, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: CAVERLEE J, GPA: 3.203, A's: 28, B's: 24, C's: 9, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: CAVERLEE J, GPA: 3.092, A's: 23, B's: 27, C's: 13, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 470, Professor: CAVERLEE J, GPA: 3.303, A's: 34, B's: 22, C's: 7, D's: 2, E's: 1, F's: 0, Q's: 0
+Course Number: 470, Professor: CAVERLEE J, GPA: 3.123, A's: 21, B's: 24, C's: 10, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 477, Professor: DEWITTE P, GPA: 3.944, A's: 51, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 477, Professor: DEWITTE P, GPA: 3.923, A's: 51, B's: 0, C's: 0, D's: 0, E's: 1, F's: 1, Q's: 0
+Course Number: 477, Professor: DEWITTE P, GPA: 3.929, A's: 13, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 485, Professor: CARLISLE M, GPA: 3.833, A's: 5, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 485, Professor: CARLISLE M, GPA: 3.500, A's: 3, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 485, Professor: SONG D, GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 485, Professor: SONG D, GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: RAY K, GPA: 3.400, A's: 7, B's: 7, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: CARLISLE M, GPA: 3.288, A's: 21, B's: 25, C's: 6, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: MOORE J, GPA: 3.900, A's: 55, B's: 4, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: KHADEMI KALANTARI N, GPA: 3.571, A's: 10, B's: 3, C's: 0, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: MAHAPATRA R, GPA: 3.333, A's: 8, B's: 8, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: CARLISLE M, GPA: 3.455, A's: 24, B's: 18, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: SUEDA S, GPA: 3.667, A's: 13, B's: 4, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: CAVERLEE J, GPA: 3.540, A's: 34, B's: 12, C's: 2, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: MOORE J, GPA: 3.593, A's: 21, B's: 3, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: KHADEMI KALANTARI N, GPA: 3.412, A's: 13, B's: 1, C's: 1, D's: 1, E's: 1, F's: 1, Q's: 0
+Course Number: 489, Professor: CHASPARI T, GPA: 4.000, A's: 23, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: CARLISLE M, GPA: 3.609, A's: 16, B's: 5, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: ZHANG Y, GPA: 3.933, A's: 14, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: SUEDA S, GPA: 3.833, A's: 16, B's: 1, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: HAMMOND T, GPA: 3.528, A's: 24, B's: 7, C's: 5, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: RITCHEY P, GPA: 3.133, A's: 7, B's: 5, C's: 2, D's: 0, E's: 1, F's: 2, Q's: 0
+Course Number: 489, Professor: MOORE J, GPA: 3.944, A's: 17, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: KHADEMI KALANTARI N, GPA: 3.500, A's: 8, B's: 2, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: GARAY J, GPA: 2.778, A's: 1, B's: 5, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: NAKAMURA E, GPA: 3.200, A's: 13, B's: 1, C's: 4, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.480, A's: 18, B's: 4, C's: 1, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.333, A's: 7, B's: 4, C's: 0, D's: 0, E's: 1, F's: 1, Q's: 0
+Course Number: 489, Professor: KEYSER J, GPA: 2.571, A's: 9, B's: 9, C's: 2, D's: 5, E's: 3, F's: 4, Q's: 0
+Course Number: 489, Professor: JI S, GPA: 2.833, A's: 10, B's: 23, C's: 4, D's: 2, E's: 3, F's: 0, Q's: 0
+Course Number: 489, Professor: JI S (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: KEYSER J (H), GPA: 3.667, A's: 6, B's: 3, C's: 0, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 489, Professor: RITCHEY P, GPA: 2.892, A's: 18, B's: 7, C's: 7, D's: 0, E's: 5, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.190, A's: 6, B's: 13, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 2.889, A's: 4, B's: 2, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.560, A's: 18, B's: 4, C's: 2, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: LUPOLI S, GPA: 3.128, A's: 21, B's: 16, C's: 7, D's: 1, E's: 2, F's: 0, Q's: 0
+Course Number: 489, Professor: GARAY J, GPA: 2.630, A's: 7, B's: 10, C's: 6, D's: 1, E's: 3, F's: 0, Q's: 0
+Course Number: 489, Professor: HUANG R, GPA: 3.440, A's: 16, B's: 6, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: LUPOLI S, GPA: 2.625, A's: 3, B's: 7, C's: 3, D's: 3, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: AGUMBE SURESH M, GPA: 3.440, A's: 19, B's: 3, C's: 0, D's: 1, E's: 2, F's: 1, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.500, A's: 15, B's: 8, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: NAKAMURA E, GPA: 3.609, A's: 19, B's: 1, C's: 2, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.667, A's: 8, B's: 4, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.958, A's: 23, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.333, A's: 9, B's: 4, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: DEWITTE P, GPA: 3.500, A's: 10, B's: 3, C's: 0, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: NAKAMURA E, GPA: 3.386, A's: 34, B's: 15, C's: 6, D's: 0, E's: 2, F's: 0, Q's: 0
+Course Number: 489, Professor: KEYSER J, GPA: 2.765, A's: 9, B's: 1, C's: 3, D's: 2, E's: 2, F's: 0, Q's: 0
+Course Number: 489, Professor: KEYSER J, GPA: 3.400, A's: 9, B's: 3, C's: 3, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 489, Professor: KEYSER J (H), GPA: 2.857, A's: 4, B's: 1, C's: 0, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: DA SILVA D, GPA: 3.414, A's: 54, B's: 22, C's: 7, D's: 1, E's: 3, F's: 0, Q's: 0
+Course Number: 489, Professor: HUANG R, GPA: 3.625, A's: 12, B's: 2, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: RAGAN E, GPA: 3.667, A's: 6, B's: 3, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: LIU J, GPA: 3.800, A's: 4, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: SUEDA S, GPA: 3.500, A's: 7, B's: 4, C's: 1, D's: 0, E's: 0, F's: 2, Q's: 0
+Course Number: 489, Professor: RITCHEY P, GPA: 3.652, A's: 18, B's: 3, C's: 1, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: JAFARI R, GPA: 3.200, A's: 2, B's: 2, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: DAUGHERITY W, GPA: 3.200, A's: 6, B's: 1, C's: 2, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: DAUGHERITY W, GPA: 3.273, A's: 5, B's: 4, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: BETTATI R, GPA: 3.538, A's: 15, B's: 10, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: KEYSER J, GPA: 3.733, A's: 12, B's: 2, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: QUINN M, GPA: 3.600, A's: 3, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: SUEDA S, GPA: 3.692, A's: 10, B's: 2, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: JAFARI R, GPA: 2.300, A's: 1, B's: 4, C's: 3, D's: 1, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: CAVERLEE J, GPA: 3.784, A's: 44, B's: 5, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: MAHAPATRA R, GPA: 3.857, A's: 12, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: LIU J, GPA: 3.111, A's: 5, B's: 10, C's: 3, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: TYAGI A, GPA: 2.286, A's: 1, B's: 2, C's: 2, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: DUFFIELD N, GPA: 3.000, A's: 1, B's: 3, C's: 1, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: MURPHY R, GPA: 3.333, A's: 11, B's: 8, C's: 1, D's: 0, E's: 1, F's: 0, Q's: 0
+Course Number: 489, Professor: LIU J, GPA: 3.087, A's: 9, B's: 9, C's: 3, D's: 2, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: TYAGI A, GPA: 2.889, A's: 1, B's: 6, C's: 2, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: MAHAPATRA R, GPA: 3.818, A's: 10, B's: 0, C's: 1, D's: 0, E's: 0, F's: 1, Q's: 0
+Course Number: 489, Professor: LIU J, GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: MAHAPATRA R, GPA: 3.846, A's: 11, B's: 2, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 489, Professor: CAVERLEE J, GPA: 3.417, A's: 15, B's: 6, C's: 2, D's: 0, E's: 1, F's: 1, Q's: 0
+Course Number: 489, Professor: VALASEK J, GPA: 3.889, A's: 8, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T, GPA: 4.000, A's: 9, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T (H), GPA: 4.000, A's: 22, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T, GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: CHOE Y, GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: CHOE Y (H), GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: CAVERLEE J (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: MORTAZAVI B (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HUANG S (H), GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T, GPA: 4.000, A's: 8, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T, GPA: 3.400, A's: 4, B's: 0, C's: 0, D's: 1, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T, GPA: 4.000, A's: 8, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: FURUTA R, GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T (H), GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: RAGSDALE D, GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: HAMMOND T, GPA: 4.000, A's: 12, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: SHELL D (H), GPA: 3.800, A's: 4, B's: 1, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: GOOCH B, GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: RAGSDALE D, GPA: 4.000, A's: 5, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: GOOCH B, GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: RAGSDALE D, GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: GOOCH B (H), GPA: 4.000, A's: 6, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: GOOCH B, GPA: 4.000, A's: 7, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: WALKER D, GPA: 4.000, A's: 14, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
+Course Number: 491, Professor: WALKER D, GPA: 4.000, A's: 7, B's: 0, C's: 0, D's: 0, E's: 0, F's: 0, Q's: 0
