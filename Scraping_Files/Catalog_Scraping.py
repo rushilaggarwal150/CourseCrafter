@@ -8,7 +8,6 @@ options = webdriver.FirefoxOptions()
 driver = webdriver.Firefox(options=options)
 
 Coursetitle = []
-#hours = []
 Description = []
 
 url = f"https://catalog.tamu.edu/undergraduate/course-descriptions/csce/"
@@ -28,7 +27,6 @@ Main_div = Content_div.find('main')
 Class_div = Main_div.find('div')
 
 titles = Class_div.find_all('h2', class_='courseblocktitle')
-#hours = Class_div.find_all('span', class_='hours')
 descriptions = Class_div.find_all('p', class_='courseblockdesc')
 
 for title in titles:
