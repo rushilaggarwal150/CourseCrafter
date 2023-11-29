@@ -15,9 +15,12 @@ from langchain.chains import (
     StuffDocumentsChain, LLMChain, ConversationalRetrievalChain
 )
 import json
+from flask import Flask, request, jsonify
+from flask_cors import CORS
 from dotenv import load_dotenv
 load_dotenv()
 
+app = Flask(__name__)
 
 def initialize():
     pinecone.init(
@@ -84,17 +87,44 @@ def find_similar_courses(index, llm_response):
 
     return(json_string)
 
-def rate_difficulty_courses():
-    # TODO
-    pass
-
-
-def main():
+@app.route('/process_user_input', methods=['POST'])
+def process_user_input():
+    # Assuming the user input is sent in the request body as JSON
+    data = request.json
+    user_input = data.get('user_input')
+    
     llm_chain = initialize()
-    llm_response = run(llm_chain=llm_chain)
+    llm_response = llm_chain.run(user_input)
+
     file_path = 'Data_Files/Catalog.txt'
     index = create_index_from_file(file_path)
-    json_string = find_similar_courses(index=index, llm_response=llm_response)
-    print(json_string)
 
-main()
+    vectorizer = TfidfVectorizer()
+    dict = {}
+    for i in index:
+        tfidf_matrix = vectorizer.fit_transform([llm_response, i])
+        similarity = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
+        dict[similarity[0][0]] = i[20:23]
+
+    dict = sorted(dict.items(), reverse=True)
+    max_value = max(item[0] for item in dict)
+    scaled_vals = [(item[0], item[1], (item[0] / max_value) * 100) for item in dict]
+
+    scaled_vals = [{"val": i[0], "course_number": i[1], "scaled_val": i[2]} for i in scaled_vals]
+    return jsonify(scaled_vals)
+
+
+# def main():
+#     llm_chain = initialize()
+#     llm_response = run(llm_chain=llm_chain)
+#     file_path = 'Data_Files/Catalog.txt'
+#     index = create_index_from_file(file_path)
+#     json_string = find_similar_courses(index=index, llm_response=llm_response)
+#     print(json_string)
+
+# main()
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
+    print("Started")
