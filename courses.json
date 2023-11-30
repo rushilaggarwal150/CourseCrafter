@@ -1,0 +1,234 @@
+{
+    "courses": [
+        {
+            "Course Number": "402",
+            "Course Name": "Law and Policy in Cybersecurity",
+            "Description": "Examination of law and policy issues related to cybersecurity for the spectrum of cybersecurity jobs; includes procurement, operations and maintenance, governance and oversight, protection and defense, analysis, intelligence collection and operation and investigation cybersecurity jobs"
+        },
+        {
+            "Course Number": "410",
+            "Course Name": "Operating Systems",
+            "Description": "Hardware/software evolution leading to contemporary operating systems; basic operating systems concepts; methods of operating systems design and construction including algorithms for CPU scheduling, memory and general resource allocation, process coordination and management; case studies of several operating systems"
+        },
+        {
+            "Course Number": "411",
+            "Course Name": "Design and Analysis of Algorithms",
+            "Description": "Study of computer algorithms for numeric and non-numeric problems; design paradigms; analysis of time and space requirements of algorithms; correctness of algorithms; NP-completeness and undecidability of problems"
+        },
+        {
+            "Course Number": "412",
+            "Course Name": "Cloud Computing",
+            "Description": "Operating system and distributed systems fields that form the basis of cloud computing such as virtualization, key-value storage solutions, group membership, failure detection, peer to peer systems, datacenter networking, resource management and scalability; popular frameworks such as MapReduce and HDFS and case studies on failure determination"
+        },
+        {
+            "Course Number": "413",
+            "Course Name": "Software Security",
+            "Description": "Basic principles of design and implementation of defect-free software, code reviews including tool-assisted review by static and dynamic analysis, risk analysis and management and methods for software security testing"
+        },
+        {
+            "Course Number": "416",
+            "Course Name": "416 Hardware Design Verification",
+            "Description": "Hardware functional verification; case studies on verification in integrated circuit design; introduction to industry best practices; introduction to logic functional verification"
+        },
+        {
+            "Course Number": "420",
+            "Course Name": "Artificial Intelligence",
+            "Description": "Fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational systems, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems"
+        },
+        {
+            "Course Number": "421",
+            "Course Name": "Machine Learning",
+            "Description": "Theoretical foundations of machine learning, pattern recognition and generating predictive models and classifiers from data; includes methods for supervised and unsupervised learning (decision trees, linear discriminants, neural networks, Gaussian models, non-parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and statistical inference"
+        },
+        {
+            "Course Number": "426",
+            "Course Name": "426 Security of Embedded Systems",
+            "Description": "Security principles; common security features and flaws in day-to-day embedded systems; security analysis, vulnerability exploits and security fixes for embedded systems"
+        },
+        {
+            "Course Number": "429",
+            "Course Name": "Software Development, Globalization and Culture Abroad",
+            "Description": "Software development cycle; software outsourcing model, execution and practices; software industries on products, services and consultancy; software globalization; and offshore development culture; travel abroad required"
+        },
+        {
+            "Course Number": "430",
+            "Course Name": "Problem Solving Programming Strategies",
+            "Description": "Methods for analyzing fundamental programming problems from a variety of domains and implementing solutions quickly and efficiently; problems based on competitive programming contests to develop skills in problem analysis, coding and testing; solving problems will involve identifying and applying a range of algorithmic solutions; includes dealing with combinatorics, dynamic programming, graphs, numerical calculations, string processing and geometry, along with other specialized algorithms"
+        },
+        {
+            "Course Number": "431",
+            "Course Name": "Software Engineering",
+            "Description": "Application of engineering approach to computer software design and development; life cycle models, software requirements and specification; conceptual model design; detailed design; validation and verification; design quality assurance; software design/development environments and project management"
+        },
+        {
+            "Course Number": "432",
+            "Course Name": "Accessible Computing",
+            "Description": "Exploration of the characteristics of traditionally disenfranchised user populations due to disability including discrimination; universal design concepts; exploration of ethical and legal motivations for creating accessible technology; development, evaluation, design, and implementation of equitable and inclusive software and computer based solutions; study of multiple existing accessibility standards"
+        },
+        {
+            "Course Number": "433",
+            "Course Name": "Formal Languages and Automata",
+            "Description": "Basic types of abstract languages and their acceptors; the Chomsky hierarchy; solvability and recursive function theory; application of theoretical results to practical problems"
+        },
+        {
+            "Course Number": "434",
+            "Course Name": "Compiler Design",
+            "Description": "Programming language translation; functions and general organization of compiler design and interpreters; theoretical and implementation aspects of lexical scanners; parsing of context free languages; code generation and optimization; error recovery"
+        },
+        {
+            "Course Number": "435",
+            "Course Name": "Parallel Computing",
+            "Description": "Overview of parallel computing technology and programming methods; includes multiprocessor architectures, programming tools, parallel performance, parallel algorithms, and applications of parallel computing"
+        },
+        {
+            "Course Number": "436",
+            "Course Name": "Computer-Human Interaction",
+            "Description": "Comprehensive study of the Computer-Human Interaction (CHI) area; includes history and importance of CHI; CHI design theories; modeling of computer users and interfaces; empirical techniques for task analysis and interface design; styles of interaction and future directions of CHI including hypermedia and computer-supported collaborative work"
+        },
+        {
+            "Course Number": "438",
+            "Course Name": "Distributed Systems",
+            "Description": "Principles and techniques for engineering distributed systems with topics including communication, concurrency, programming paradigms, naming, managing shared state, caching, synchronization, reaching agreement, fault tolerance, security, middleware and distributed applications; design, implement and debug large software systems"
+        },
+        {
+            "Course Number": "439",
+            "Course Name": "Data Analytics for Cybersecurity",
+            "Description": "Theoretical foundations, algorithms and methods of data analytics for cybersecurity; study of data analytics including cluster analysis, supervised machine learning, anomaly detection, and visualization applied to cyber attacks, anomaly detection, vulnerability analysis, strategic manipulation, propaganda and other topics"
+        },
+        {
+            "Course Number": "440",
+            "Course Name": "Quantum Algorithms",
+            "Description": "Introduction to the design and analysis of quantum algorithms; basic principles of the quantum circuit model; gives a gentle introduction to basic quantum algorithms; reviews recent results in quantum information processing"
+        },
+        {
+            "Course Number": "441",
+            "Course Name": "Computer Graphics",
+            "Description": "Principles of interactive computer graphics; 2-D and 3-D rendering pipelines, including geometric object and view transformations, projections, hidden surface removal, and rasterization; lighting models for local and global illumination; hierarchical models of 3-D objects; systems and libraries supporting display and user interaction"
+        },
+        {
+            "Course Number": "442",
+            "Course Name": "Scientific Programming",
+            "Description": "Introduction to numerical algorithms fundamental to scientific and engineering applications of computers; elementary discussion of error; algorithms, efficiency; polynomial approximations, quadrature and systems of algebraic and differential equations"
+        },
+        {
+            "Course Number": "443",
+            "Course Name": "487 Game Development",
+            "Description": "Aesthetic and technical aspects of computer game development, including game mechanics, story development, content creation and game programming; includes game design, interface design, 3D modeling and animation, graphics algorithms, shader programming and artificial intelligence; group project includes the design and development of a game from start to finish"
+        },
+        {
+            "Course Number": "444",
+            "Course Name": "Structures of Interactive Information",
+            "Description": "A systems approach to the programming, design, authoring and theory of hypermedia; object-oriented visual and interactive programming; visual design, including color, space, text and layering; the reference as a metadisciplinary structure; collecting and sampling; ontologies, maps and navigation as means of structuring information; create dynamic hypermedia that is expressive and interpretive"
+        },
+        {
+            "Course Number": "445",
+            "Course Name": "Computers and New Media",
+            "Description": "Potential and realized impact of computers in the design of new media; relationship between authors and readers of interactive material; influence of media design on the content expressed"
+        },
+        {
+            "Course Number": "446",
+            "Course Name": "477 Virtual Reality",
+            "Description": "Theory and practice of virtual reality; interactive 3D virtual environments; input/output devices, 3D interaction techniques, augmented reality, role of realism in VR, navigation techniques, design guidelines and evaluation methods"
+        },
+        {
+            "Course Number": "447",
+            "Course Name": "476 Data Visualization",
+            "Description": "Visual representation and design of data and information; 3D visualization, infographics, data narratives, principles of visual data encoding and interaction techniques"
+        },
+        {
+            "Course Number": "448",
+            "Course Name": "Computational Photography",
+            "Description": "Cameras and the image formation process; basic image and video processing tools like sampling, filtering and pyramids; several image-based algorithms, including panorama creation, lightfields, image retargeting, high dynamic range imaging and texture synthesis"
+        },
+        {
+            "Course Number": "449",
+            "Course Name": "Applied Cryptography",
+            "Description": "Applied cryptography; secure multi-party computations; zero knowledge proofs; blockchain and machine learning"
+        },
+        {
+            "Course Number": "450",
+            "Course Name": "Computer Animation",
+            "Description": "Investigation of computational problems in computer animation; study of the mathematical and algorithmic foundations behind various techniques used for computer animation for real-time and offline use"
+        },
+        {
+            "Course Number": "451",
+            "Course Name": "Software Reverse Engineering",
+            "Description": "Overview of the compilation mechanism to generate executable files and raw binary codes from source codes; executable file formats for an operating system to run the binary code; disassembly algorithms and control graph analysis; static and dynamic analyses; case studies on code obfuscation, codebreaking, malware analysis"
+        },
+        {
+            "Course Number": "452",
+            "Course Name": "Robotics and Spatial Intelligence",
+            "Description": "Algorithms for executing spatial tasks; path planning and obstacle aance in two- and three-dimensional robots--configuration space, potential field, free-space decomposition methods; stable grasping and manipulation; dealing with uncertainty; knowledge representation for planning--geometric and symbolic models of the environment; task-level programming; learning"
+        },
+        {
+            "Course Number": "456",
+            "Course Name": "Real-Time Computing",
+            "Description": "Introduction to principles and applications of real-time computing; system architecture; D/A and A/D conversion; synchronous data acquisition and analysis; computers in real-time control; asynchronous monitoring and control; resource scheduling; interfacing issues; lectures and laboratory"
+        },
+        {
+            "Course Number": "461",
+            "Course Name": "428 Embedded Systems for Medical Applications",
+            "Description": "Principles of embedded system architecture and programming; fundamentals and theoretical foundations of wireless communication systems; hands-on experiences of how an embedded system could be used to solve problems in biomedical engineering; projects on wireless sensors and imaging for medical devices"
+        },
+        {
+            "Course Number": "463",
+            "Course Name": "Networks and Distributed Processing",
+            "Description": "Basic hardware/software, architectural components for computer communications; computer networks, switching, routing, protocols and security; multiprocessing and distributed processing; interfacing operating systems and networks; case studies of existing networks and network architectures"
+        },
+        {
+            "Course Number": "464",
+            "Course Name": "Wireless and Mobile Systems",
+            "Description": "Introduction to wireless and mobile systems; wireless communication fundamentals; wireless medium access control design; transmission scheduling, network and transport protocols over wireless design, simulation and evaluation; wireless capacity; telecommunication systems; vehicular, adhoc, and sensor network systems; wireless security; mobile applications"
+        },
+        {
+            "Course Number": "465",
+            "Course Name": "Computer and Network Security",
+            "Description": "Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security"
+        },
+        {
+            "Course Number": "469",
+            "Course Name": "469 Advanced Computer Architecture",
+            "Description": "Advanced computer architectures including memory designs, pipeline techniques, and parallel structures such as vector computers and multiprocessors"
+        },
+        {
+            "Course Number": "470",
+            "Course Name": "Information Storage and Retrieval",
+            "Description": "Representation of, storage of and access to very large multimedia document collections; fundamental data structures and algorithms of current information storage and retrieval systems and relates various techniques to design and evaluation of complete retrieval systems"
+        },
+        {
+            "Course Number": "477",
+            "Course Name": "403 Cybersecurity Risk",
+            "Description": "Risks in cybersecurity; avoidance, acceptance, mitigation, or transference strategies; developing reliable cybersecurity risk assessments to include analysis, categorization, and evaluation; cybersecurity risk audit frameworks"
+        },
+        {
+            "Course Number": "481",
+            "Course Name": "Seminar",
+            "Description": "Investigation and report by students on topics of current interest in computer science"
+        },
+        {
+            "Course Number": "482",
+            "Course Name": "Senior Capstone Design",
+            "Description": "Development of system integration skills for solving real-world problems in computer science; significant team software project that uses integration of advanced concepts across computer science specializations; projects require design, implementation, documentation and demonstration, as well as design methodology, management process and teamwork"
+        },
+        {
+            "Course Number": "483",
+            "Course Name": "Computer Systems Design",
+            "Description": "Engineering design; working as a design-team member, conceptual design methodology, design evaluations, total project planning and management techniques, design optimization, systems manufacturing costs considerations; emphasis placed upon students' activities as design professionals"
+        },
+        {
+            "Course Number": "485",
+            "Course Name": "Directed Studies",
+            "Description": "Permits work on special project in computer science; project must be approved by the department"
+        },
+        {
+            "Course Number": "489",
+            "Course Name": "Special Topics in...",
+            "Description": "Special topics in computer science that are new or unique that are not covered in existing courses."
+        },
+        {
+            "Course Number": "491",
+            "Course Name": "Research",
+            "Description": "Research conducted under the direction of faculty member in computer science. May be taken four times for credit"
+        }
+    ]
+}
