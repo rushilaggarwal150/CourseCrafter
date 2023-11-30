@@ -31,8 +31,8 @@
             "Difficulty": "4"
         },
         {
-            "Course Number": "416/ECEN",
-            "Course Name": "416 Hardware Design Verification",
+            "Course Number": "416",
+            "Course Name": "Hardware Design Verification",
             "Description": "Hardware functional verification; case studies on verification in integrated circuit design; introduction to industry best practices; introduction to logic functional verification",
             "Difficulty": "5"
         },
@@ -49,8 +49,8 @@
             "Difficulty": "3"
         },
         {
-            "Course Number": "426/ECEN",
-            "Course Name": "426 Security of Embedded Systems",
+            "Course Number": "426",
+            "Course Name": "Security of Embedded Systems",
             "Description": "Security principles; common security features and flaws in day-to-day embedded systems; security analysis, vulnerability exploits and security fixes for embedded systems",
             "Difficulty": "5"
         },
@@ -133,8 +133,8 @@
             "Difficulty": "3"
         },
         {
-            "Course Number": "443/VIST",
-            "Course Name": "487 Game Development",
+            "Course Number": "443",
+            "Course Name": "Game Development",
             "Description": "Aesthetic and technical aspects of computer game development, including game mechanics, story development, content creation and game programming; includes game design, interface design, 3D modeling and animation, graphics algorithms, shader programming and artificial intelligence; group project includes the design and development of a game from start to finish",
             "Difficulty": "2"
         },
@@ -151,14 +151,14 @@
             "Difficulty": "1"
         },
         {
-            "Course Number": "446/VIST",
-            "Course Name": "477 Virtual Reality",
+            "Course Number": "446",
+            "Course Name": "Virtual Reality",
             "Description": "Theory and practice of virtual reality; interactive 3D virtual environments; input/output devices, 3D interaction techniques, augmented reality, role of realism in VR, navigation techniques, design guidelines and evaluation methods",
             "Difficulty": "2"
         },
         {
-            "Course Number": "447/VIST",
-            "Course Name": "476 Data Visualization",
+            "Course Number": "447",
+            "Course Name": "Data Visualization",
             "Description": "Visual representation and design of data and information; 3D visualization, infographics, data narratives, principles of visual data encoding and interaction techniques",
             "Difficulty": "2"
         },
@@ -199,8 +199,8 @@
             "Difficulty": "4"
         },
         {
-            "Course Number": "461/BMEN",
-            "Course Name": "428 Embedded Systems for Medical Applications",
+            "Course Number": "461",
+            "Course Name": "Embedded Systems for Medical Applications",
             "Description": "Principles of embedded system architecture and programming; fundamentals and theoretical foundations of wireless communication systems; hands-on experiences of how an embedded system could be used to solve problems in biomedical engineering; projects on wireless sensors and imaging for medical devices",
             "Difficulty": "5"
         },
@@ -223,8 +223,8 @@
             "Difficulty": "4"
         },
         {
-            "Course Number": "469/ECEN",
-            "Course Name": "469 Advanced Computer Architecture",
+            "Course Number": "469",
+            "Course Name": "Advanced Computer Architecture",
             "Description": "Advanced computer architectures including memory designs, pipeline techniques, and parallel structures such as vector computers and multiprocessors",
             "Difficulty": "5"
         },
@@ -235,8 +235,8 @@
             "Difficulty": "2"
         },
         {
-            "Course Number": "477/CYBR",
-            "Course Name": "403 Cybersecurity Risk",
+            "Course Number": "477",
+            "Course Name": "Cybersecurity Risk",
             "Description": "Risks in cybersecurity; avoidance, acceptance, mitigation, or transference strategies; developing reliable cybersecurity risk assessments to include analysis, categorization, and evaluation; cybersecurity risk audit frameworks",
             "Difficulty": "1"
         },
