@@ -79,6 +79,12 @@ def find_desc_by_number(courses, course_number):
             return course["Description"]
     return None
 
+def find_diff_by_number(courses, course_number):
+    for course in courses:
+        if course["Course Number"] == course_number:
+            return course["Difficulty"]
+    return None
+
 def find_similar_courses(index, llm_response):
     # Load course desc and title data
     file_path = 'courses.json'
@@ -101,6 +107,7 @@ def find_similar_courses(index, llm_response):
         number = item["course_number"]
         item["course_name"] = find_name_by_number(courses, number)
         item["course_desc"] = find_desc_by_number(courses, number)
+        # item["course_diff"] = find_desc_by_number(courses, number)
 
     json_string = json.dumps(scaled_vals, indent=4)
     return json_string
@@ -139,6 +146,7 @@ def process_user_input():
         number = item["course_number"]
         item["course_name"] = find_name_by_number(courses, number)
         item["course_desc"] = find_desc_by_number(courses, number)
+        item["difficulty"] = find_diff_by_number(courses, number)
 
     return jsonify(scaled_vals)
 
