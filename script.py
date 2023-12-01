@@ -1,13 +1,4 @@
-from langchain.document_loaders import WebBaseLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-
-from langchain.embeddings.openai import OpenAIEmbeddings
-
-import os
 from langchain.chat_models import ChatOpenAI
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
-from langchain.document_loaders import TextLoader
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 from langchain.prompts import PromptTemplate
