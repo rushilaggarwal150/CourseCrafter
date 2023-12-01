@@ -1,8 +1,8 @@
 from langchain.document_loaders import WebBaseLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Pinecone
+
 from langchain.embeddings.openai import OpenAIEmbeddings
-import pinecone
+
 import os
 from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
@@ -24,14 +24,6 @@ app = Flask(__name__)
 CORS(app)
 
 def initialize():
-    pinecone.init(
-        api_key=os.environ['PINECONE_API_KEY'],
-        environment= 'asia-southeast1-gcp-free')
-    index = pinecone.Index('coursecrafter')
-    embeddings = OpenAIEmbeddings(openai_api_key=os.environ['OPENAI_API_KEY'])
-    vectordb = Pinecone.from_documents(documents='', embedding=embeddings, index_name='coursecrafter')
-
-    # retriever = vectordb.as_retriever(k=10)
 
     template = '''I'm trying to run cosine similarity on a user-generated text input against a number of course descriptions. To do this, I will need to convert the user-generated text input into a course description. Using your own knowledge of the content of computer science classes as well as the examples below, you will create the course description. Your description should be a little bit longer and more verbose than the examples.
 
@@ -85,37 +77,11 @@ def find_diff_by_number(courses, course_number):
             return course["Difficulty"]
     return None
 
-def find_similar_courses(index, llm_response):
-    # Load course desc and title data
-    file_path = 'courses.json'
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-    courses = data['courses']
-
-    vectorizer = TfidfVectorizer()
-    similarity_dict = {}
-    for i in index:
-        tfidf_matrix = vectorizer.fit_transform([llm_response, i])
-        similarity = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
-        similarity_dict[similarity[0][0]] = i[20:23]
-
-    sorted_similarities = sorted(similarity_dict.items(), reverse=True)
-    max_value = max(item[0] for item in sorted_similarities)
-    scaled_vals = [{"val": item[0], "course_number": item[1], "scaled_val": (item[0] / max_value) * 100, "course_name": "SWE", "course_desc": "A class."} for item in sorted_similarities]
-
-    for item in scaled_vals:
-        number = item["course_number"]
-        item["course_name"] = find_name_by_number(courses, number)
-        item["course_desc"] = find_desc_by_number(courses, number)
-        # item["course_diff"] = find_desc_by_number(courses, number)
-
-    json_string = json.dumps(scaled_vals, indent=4)
-    return json_string
 
 @app.route('/process_user_input', methods=['POST'])
 def process_user_input():
     # Load course data
-    file_path = 'courses.json'
+    file_path = 'updated_courses_data.json'
     with open(file_path, 'r') as file:
         data = json.load(file)
     courses = data['courses']
@@ -125,7 +91,7 @@ def process_user_input():
     llm_chain = initialize()
     llm_response = llm_chain.run(user_input)
 
-    file_path = 'Data_Files/Catalog.txt'
+    file_path = 'Data_Files/CatalogWithProfessors.txt'
     index = create_index_from_file(file_path)
 
     # Calculate similarities
@@ -134,7 +100,7 @@ def process_user_input():
     for i in index:
         tfidf_matrix = vectorizer.fit_transform([llm_response, i])
         similarity = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
-        similarity_dict[similarity[0][0]] = i[20:23]
+        similarity_dict[similarity[0][0]] = i[19:22]
 
     # Sort and scale values
     sorted_similarities = sorted(similarity_dict.items(), reverse=True)
@@ -150,17 +116,6 @@ def process_user_input():
 
     return jsonify(scaled_vals)
 
-
-
-# def main():
-#     llm_chain = initialize()
-#     llm_response = run(llm_chain=llm_chain)
-#     file_path = 'Data_Files/Catalog.txt'
-#     index = create_index_from_file(file_path)
-#     json_string = find_similar_courses(index=index, llm_response=llm_response)
-#     print(json_string)
-
-# main()
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)

@@ -1,0 +1,31 @@
+{"course_number": 402, "text": "Is taught by DEWITTE P. The average GPA is 3.73. On average, 86.05% of students get an A, and 0.23% get an F or Q."}
+{"course_number": 410, "text": "Is taught by YUM K, DA SILVA D (H), STOLERU R, BETTATI R, HAMILTON J, LEYK T, DA SILVA D, TSAI C. The average GPA is 3.08. On average, 53.6% of students get an A, and 0.55% get an F or Q."}
+{"course_number": 412, "text": "Is taught by LIGHTFOOT R (H), LIGHTFOOT R. The average GPA is 3.9. On average, 85.13% of students get an A, and 0.51% get an F or Q."}
+{"course_number": 420, "text": "Is taught by DAUGHERITY W (H), WARD R, MURPHY R, SHELL D, DAUGHERITY W, SHELL D (H), CHOE Y, IOERGER T. The average GPA is 3.09. On average, 41.33% of students get an A, and 0.93% get an F or Q."}
+{"course_number": 421, "text": "Is taught by CHASPARI T, CHOE Y (H), WANG Z (H), MORTAZAVI B (H), MORTAZAVI B, SHARON G, CHASPARI T (H), WANG Z, CHOE Y. The average GPA is 3.67. On average, 66.18% of students get an A, and 0.27% get an F or Q."}
+{"course_number": 430, "text": "Is taught by KEYSER J (H), KEYSER J. The average GPA is 3.32. On average, 56.15% of students get an A, and 2.14% get an F or Q."}
+{"course_number": 431, "text": "Is taught by HUANG S, WALKER D, WADE P, NOWAK M, RITCHEY P, JARVI J. The average GPA is 3.54. On average, 60.89% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 433, "text": "Is taught by WELCH J, SZE S, CHEN J, WILLIAMS T. The average GPA is 2.95. On average, 32.23% of students get an A, and 1.33% get an F or Q."}
+{"course_number": 434, "text": "Is taught by MCGUIRE T, RAUCHWERGER L (H), HORDEMANN G, RAUCHWERGER L, NGUYEN K. The average GPA is 2.68. On average, 48.02% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 435, "text": "Is taught by SARIN V (H), SARIN V, DAVIS T, PEARCE O. The average GPA is 3.32. On average, 56.06% of students get an A, and 0.23% get an F or Q."}
+{"course_number": 436, "text": "Is taught by KIM J, HAMMOND T, KIM J (H), MOORE J (H), SHIPMAN F, MOORE J, FURUTA R. The average GPA is 3.68. On average, 73.18% of students get an A, and 0.08% get an F or Q."}
+{"course_number": 438, "text": "Is taught by STOLERU R (H), STOLERU R, MOORE J, CAVERLEE J. The average GPA is 3.1. On average, 36.32% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 440, "text": "Is taught by KLAPPENECKER A, SONG F. The average GPA is 3.45. On average, 63.89% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 441, "text": "Is taught by KEYSER J, KHADEMI KALANTARI N (H), SCHAEFER S, SUEDA S, KHADEMI KALANTARI N, CHAI J, SUEDA S (H). The average GPA is 2.77. On average, 36.26% of students get an A, and 1.49% get an F or Q."}
+{"course_number": 443, "text": "Is taught by SALEEM W, THOMAS A, SUEDA S, SCHAEFER S, BRACKENRIDGE R, ANDREASSON M, GOOCH B. The average GPA is 3.75. On average, 76.87% of students get an A, and 0.36% get an F or Q."}
+{"course_number": 445, "text": "Is taught by SHIPMAN F, FURUTA R (H), FURUTA R. The average GPA is 3.67. On average, 70.32% of students get an A, and 0.19% get an F or Q."}
+{"course_number": 446, "text": "Is taught by SEO J. The average GPA is 3.83. On average, 83.33% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 447, "text": "Is taught by SHIPMAN F, MCNAMARA A. The average GPA is 3.59. On average, 81.4% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 451, "text": "Is taught by LIU J. The average GPA is 3.38. On average, 54.42% of students get an A, and 0.88% get an F or Q."}
+{"course_number": 452, "text": "Is taught by YEH S, SONG D. The average GPA is 3.19. On average, 38.51% of students get an A, and 0.62% get an F or Q."}
+{"course_number": 461, "text": "Is taught by JAFARI R. The average GPA is 3.0. On average, 20.0% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 462, "text": "Is taught by MAHAPATRA R, LIU J. The average GPA is 3.32. On average, 49.85% of students get an A, and 1.56% get an F or Q."}
+{"course_number": 463, "text": "Is taught by LOGUINOV D. The average GPA is 2.84. On average, 44.34% of students get an A, and 1.26% get an F or Q."}
+{"course_number": 464, "text": "Is taught by STOLERU R, ALTAWEEL A, AGUMBE SURESH M. The average GPA is 2.98. On average, 34.66% of students get an A, and 0.21% get an F or Q."}
+{"course_number": 465, "text": "Is taught by GU G (H), CARLISLE M (H), HOUNGNINOU D (H), CARLISLE M, DA SILVA D (H), HOUNGNINOU D, MENDOZA A, ZHANG Y (H), ZHANG Y, DA SILVA D, RITCHEY P, HONG S, GU G, RAGSDALE D. The average GPA is 3.27. On average, 43.57% of students get an A, and 0.17% get an F or Q."}
+{"course_number": 469, "text": "Is taught by KIM E, TERAN E. The average GPA is 3.3. On average, 59.38% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 470, "text": "Is taught by HU X, HUANG R, CAVERLEE J, HUANG R (H). The average GPA is 3.34. On average, 52.43% of students get an A, and 0.11% get an F or Q."}
+{"course_number": 477, "text": "Is taught by DEWITTE P. The average GPA is 3.93. On average, 95.04% of students get an A, and 0.83% get an F or Q."}
+{"course_number": 485, "text": "Is taught by CARLISLE M, SONG D. The average GPA is 3.83. On average, 82.61% of students get an A, and 0.0% get an F or Q."}
+{"course_number": 489, "text": "Is taught by CHASPARI T, HAMMOND T, RAGAN E, KHADEMI KALANTARI N, ZHANG Y, DEWITTE P, LUPOLI S, TYAGI A, DA SILVA D, MAHAPATRA R, BETTATI R, SUEDA S, DAUGHERITY W, MOORE J, RITCHEY P, AGUMBE SURESH M, KEYSER J, KEYSER J (H), NAKAMURA E, CAVERLEE J, QUINN M, JI S, DUFFIELD N, RAY K, JI S (H), MURPHY R, HUANG R, GARAY J, JAFARI R, LIU J, CARLISLE M, VALASEK J. The average GPA is 3.4. On average, 61.14% of students get an A, and 1.04% get an F or Q."}
+{"course_number": 491, "text": "Is taught by CHOE Y (H), FURUTA R, MORTAZAVI B (H), HAMMOND T, GOOCH B (H), WALKER D, CAVERLEE J (H), GOOCH B, HAMMOND T (H), SHELL D (H), HUANG S (H), CHOE Y, RAGSDALE D. The average GPA is 3.97. On average, 98.85% of students get an A, and 0.0% get an F or Q."}
