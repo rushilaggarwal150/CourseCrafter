@@ -114,7 +114,7 @@ def find_similar_courses(index, llm_response):
 
 @app.route('/process_user_input', methods=['POST'])
 def process_user_input():
-    # Load course data
+    # Load course data from JSON
     file_path = 'courses.json'
     with open(file_path, 'r') as file:
         data = json.load(file)
@@ -125,16 +125,14 @@ def process_user_input():
     llm_chain = initialize()
     llm_response = llm_chain.run(user_input)
 
-    file_path = 'Data_Files/Catalog.txt'
-    index = create_index_from_file(file_path)
-
     # Calculate similarities
     vectorizer = TfidfVectorizer()
     similarity_dict = {}
-    for i in index:
-        tfidf_matrix = vectorizer.fit_transform([llm_response, i])
+    for course in courses:
+        course_desc = course["Description"]
+        tfidf_matrix = vectorizer.fit_transform([llm_response, course_desc])
         similarity = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
-        similarity_dict[similarity[0][0]] = i[20:23]
+        similarity_dict[similarity[0][0]] = course["Course Number"]
 
     # Sort and scale values
     sorted_similarities = sorted(similarity_dict.items(), reverse=True)
@@ -144,9 +142,12 @@ def process_user_input():
     # Add course name and description
     for item in scaled_vals:
         number = item["course_number"]
-        item["course_name"] = find_name_by_number(courses, number)
-        item["course_desc"] = find_desc_by_number(courses, number)
-        item["difficulty"] = find_diff_by_number(courses, number)
+        for course in courses:
+            if course["Course Number"] == number:
+                item["course_name"] = course["Course Name"]
+                item["course_desc"] = course["Description"]
+                item["difficulty"] = course["Difficulty"]
+                break
 
     return jsonify(scaled_vals)
 
