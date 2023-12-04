@@ -1,0 +1,30 @@
+.course-card {
+    border: 1px solid var(--fourth);
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .course-number {
+    font-weight: bold;
+    font-size: 18px;
+    color: var(--primary);
+    background-color: var(--fourth);
+    border-radius: 8px;
+  }
+  
+  .course-details {
+    margin-top: 8px;
+    line-height: 1.5;
+    font-size: 14px;
+  }
+  
+  .course-difficulty {
+    padding: 8px;
+  }
+  
+  .course-relevance {
+    padding-bottom: 8px;
+  }
+
+  
+  

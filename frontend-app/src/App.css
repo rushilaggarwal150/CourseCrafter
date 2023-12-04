@@ -1,0 +1,36 @@
+/* :root{
+  --primary: #ECECEC;
+  --second: #474787;
+  --third: #AAABB8;
+  --fourth: #2C2C54;
+  background-color: var(--third);
+}
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.text-container{
+  color: var(--fourth);
+  padding: 0 10%;
+}
+
+.course-text{
+  padding: 2% 0;
+}
+
+.course-details{
+  padding-left: 2%;
+  opacity: .8;
+}
+ */

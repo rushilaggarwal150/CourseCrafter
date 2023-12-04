@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    background-color: var(--fourth);
+    color: var(--primary);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .navBarBtn{
+    /* left: 10px; */
+    padding-left: 70%;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  

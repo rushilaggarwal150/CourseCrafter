@@ -1,0 +1,50 @@
+
+:root{
+    --primary: #ECECEC;
+    --second: #474787;
+    --third: #AAABB8;
+    --fourth: #2C2C54;
+    background-color: var(--third);
+  }
+  
+.graph-container {
+    margin: 0 auto;
+    max-width: 800px; 
+    text-align: center;
+    padding-bottom: 2%;
+  }
+  
+
+  .text-container{
+    color: var(--fourth);
+    padding: 1% 10%;
+  }
+  
+  .course-text{
+    padding: 0.5% 0;
+    text-align: left;
+  }
+  
+  .course-details{
+    padding-left: 2%;
+    opacity: .9;
+    display: block;
+  }
+
+.scroll-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: var(--fourth);
+  color: #ffffff;
+  border: none;
+  border-radius: 75%;
+  padding: 10px 25px;
+  font-size: 32px;
+  cursor: pointer;
+  outline: none;
+}
+
+.scroll-button:hover {
+  background-color: var(--second);
+}
