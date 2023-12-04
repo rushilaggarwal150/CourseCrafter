@@ -18,11 +18,15 @@ def initialize():
 
     template = '''I'm trying to run cosine similarity on a user-generated text input against a number of course descriptions. To do this, I will need to convert the user-generated text input into a course description. Using your own knowledge of the content of computer science classes as well as the examples below, you will create the course description. Your description should be a little bit longer and more verbose than the examples.
 
-    Here are some examples of course descriptions:
+    Here are some examples of user inputs and relevant course descriptions:
+    User: "I'm interested in low-level languages"
+    Assistant: "Principles of embedded system architecture and programming; fundamentals and theoretical foundations of wireless communication systems; hands-on experiences of how an embedded system could be used to solve problems in biomedical engineering; projects on wireless sensors and imaging for medical devices. Programming language translation; functions and general organization of compiler design and interpreters; theoretical and implementation aspects of lexical scanners; parsing of context free languages; code generation and optimization; error recovery. Security principles; common security features and flaws in day-to-day embedded systems; security analysis, vulnerability exploits and security fixes for embedded systems."
 
-    Course Title: CSCE 411 Design and Analysis of Algorithms, Description: Credits 3.  3 Lecture Hours.       Study of computer algorithms for numeric and non-numeric problems; design paradigms; analysis of time and space requirements of algorithms; correctness of algorithms; NP-completeness and undecidability of problems. Prerequisite:  Grade of C or better in CSCE 221 and CSCE 222/ECEN 222; junior or senior classification or approval of instructor.
-    Course Title: CSCE 412 Cloud Computing, Description: Credits 3.  3 Lecture Hours.       Operating system and distributed systems fields that form the basis of cloud computing such as virtualization, key-value storage solutions, group membership, failure detection, peer to peer systems, datacenter networking, resource management and scalability; popular frameworks such as MapReduce and HDFS and case studies on failure determination. Prerequisite:  Grade of C or better in CSCE 315 or CSCE 331.
-    Course Title: CSCE 413 Software Security, Description: Credits 3.  3 Lecture Hours.       Basic principles of design and implementation of defect-free software, code reviews including tool-assisted review by static and dynamic analysis, risk analysis and management and methods for software security testing. Prerequisites:  Grade of C or better in CSCE 315 or CSCE 331; or approval of instructor.
+    User: "I like Big Data and want to work in the cloud one day"
+    Assistant: "Operating system and distributed systems fields that form the basis of cloud computing such as virtualization, key-value storage solutions, group membership, failure detection, peer to peer systems, datacenter networking, resource management and scalability; popular frameworks such as MapReduce and HDFS and case studies on failure determination. Theoretical foundations, algorithms and methods of data analytics for cybersecurity; study of data analytics including cluster analysis, supervised machine learning, anomaly detection, and visualization applied to cyber attacks, anomaly detection, vulnerability analysis, strategic manipulation, propaganda and other topics. Representation of, storage of and access to very large multimedia document collections; fundamental data structures and algorithms of current information storage and retrieval systems and relates various techniques to design and evaluation of complete retrieval systems."
+
+    User: "Machine learning"
+    Assistant: "Theoretical foundations of machine learning, pattern recognition and generating predictive models and classifiers from data; includes methods for supervised and unsupervised learning (decision trees, linear discriminants, neural networks, Gaussian models, non-parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and statistical inference. Theoretical foundations, algorithms and methods of data analytics for cybersecurity; study of data analytics including cluster analysis, supervised machine learning, anomaly detection, and visualization applied to cyber attacks, anomaly detection, vulnerability analysis, strategic manipulation, propaganda and other topics. Fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational systems, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems."
 
     Convert the following user-generated string into a course description. Do not include anything other than the description in your response. Here is the user-generated string:
     {user}'''
@@ -96,13 +100,13 @@ def process_user_input():
     # Sort and scale values
     sorted_similarities = sorted(similarity_dict.items(), reverse=True)
     max_value = max(item[0] for item in sorted_similarities)
-    scaled_vals = [{"val": item[0], "course_number": item[1], "scaled_val": (item[0] / max_value) * 100} for item in sorted_similarities]
+    scaled_vals = [{"val": item[0], "course_number": item[1], "relevance": item[0] * 100} for item in sorted_similarities]
 
     # Add course name and description
     for item in scaled_vals:
         number = item["course_number"]
         item["course_name"] = find_name_by_number(courses, number)
-        item["course_desc"] = find_desc_by_number(courses, number)
+        item["description"] = find_desc_by_number(courses, number)
         item["difficulty"] = find_diff_by_number(courses, number)
 
     return jsonify(scaled_vals)
