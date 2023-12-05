@@ -1,0 +1,280 @@
+{
+  "courses": [
+    {
+      "Course Number": "402",
+      "Course Name": "Law and Policy in Cybersecurity",
+      "Description": "Examination of law and policy issues related to cybersecurity for the spectrum of cybersecurity jobs; includes procurement, operations and maintenance, governance and oversight, protection and defense, analysis, intelligence collection and operation and investigation cybersecurity jobs\n\nIs taught by DEWITTE P. The average GPA is 3.73. On average, 86.05% of students get an A, and 0.23% get an F or Q.",
+      "Difficulty": "0.63"
+    },
+    {
+      "Course Number": "410",
+      "Course Name": "Operating Systems",
+      "Description": "Hardware/software evolution leading to contemporary operating systems; basic operating systems concepts; methods of operating systems design and construction including algorithms for CPU scheduling, memory and general resource allocation, process coordination and management; case studies of several operating systems\n\nIs taught by YUM K, DA SILVA D (H), STOLERU R, BETTATI R, HAMILTON J, LEYK T, DA SILVA D, TSAI C. The average GPA is 3.08. On average, 53.6% of students get an A, and 0.55% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "411",
+      "Course Name": "Design and Analysis of Algorithms",
+      "Description": "Study of computer algorithms for numeric and non-numeric problems; design paradigms; analysis of time and space requirements of algorithms; correctness of algorithms; NP-completeness and undecidability of problems",
+      "Difficulty": "1.72"
+    },
+    {
+      "Course Number": "412",
+      "Course Name": "Cloud Computing",
+      "Description": "Operating system and distributed systems fields that form the basis of cloud computing such as virtualization, key-value storage solutions, group membership, failure detection, peer to peer systems, datacenter networking, resource management and scalability; popular frameworks such as MapReduce and HDFS and case studies on failure determination.\n\nIs taught by LIGHTFOOT R (H), LIGHTFOOT R. The average GPA is 3.9. On average, 85.13% of students get an A, and 0.51% get an F or Q.",
+      "Difficulty": "2.19"
+    },
+    {
+      "Course Number": "413",
+      "Course Name": "Software Security",
+      "Description": "Basic principles of design and implementation of defect-free software, code reviews including tool-assisted review by static and dynamic analysis, risk analysis and management and methods for software security testing",
+      "Difficulty": "3.79"
+    },
+    {
+      "Course Number": "416",
+      "Course Name": "Hardware Design Verification",
+      "Description": "Hardware functional verification; case studies on verification in integrated circuit design; introduction to industry best practices; introduction to logic functional verification",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "420",
+      "Course Name": "Artificial Intelligence",
+      "Description": "Fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational systems, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems.\n\nIs taught by DAUGHERITY W (H), WARD R, MURPHY R, SHELL D, DAUGHERITY W, SHELL D (H), CHOE Y, IOERGER T. The average GPA is 3.09. On average, 41.33% of students get an A, and 0.93% get an F or Q.",
+      "Difficulty": "2.42"
+    },
+    {
+      "Course Number": "421",
+      "Course Name": "Machine Learning",
+      "Description": "Theoretical foundations of machine learning, pattern recognition and generating predictive models and classifiers from data; includes methods for supervised and unsupervised learning (decision trees, linear discriminants, neural networks, Gaussian models, non-parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and statistical inference.\n\nIs taught by CHASPARI T, CHOE Y (H), WANG Z (H), MORTAZAVI B (H), MORTAZAVI B, SHARON G, CHASPARI T (H), WANG Z, CHOE Y. The average GPA is 3.67. On average, 66.18% of students get an A, and 0.27% get an F or Q.",
+      "Difficulty": "3.32"
+    },
+    {
+      "Course Number": "426",
+      "Course Name": "Security of Embedded Systems",
+      "Description": "Security principles; common security features and flaws in day-to-day embedded systems; security analysis, vulnerability exploits and security fixes for embedded systems",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "429",
+      "Course Name": "Software Development, Globalization and Culture Abroad",
+      "Description": "Software development cycle; software outsourcing model, execution and practices; software industries on products, services and consultancy; software globalization; and offshore development culture; travel abroad required",
+      "Difficulty": "1.2"
+    },
+    {
+      "Course Number": "430",
+      "Course Name": "Problem Solving Programming Strategies",
+      "Description": "Methods for analyzing fundamental programming problems from a variety of domains and implementing solutions quickly and efficiently; problems based on competitive programming contests to develop skills in problem analysis, coding and testing; solving problems will involve identifying and applying a range of algorithmic solutions; includes dealing with combinatorics, dynamic programming, graphs, numerical calculations, string processing and geometry, along with other specialized algorithms.\n\nIs taught by KEYSER J (H), KEYSER J. The average GPA is 3.32. On average, 56.15% of students get an A, and 2.14% get an F or Q.",
+      "Difficulty": "3.84"
+    },
+    {
+      "Course Number": "431",
+      "Course Name": "Software Engineering",
+      "Description": "Application of engineering approach to computer software design and development; life cycle models, software requirements and specification; conceptual model design; detailed design; validation and verification; design quality assurance; software design/development environments and project management.\n\nIs taught by HUANG S, WALKER D, WADE P, NOWAK M, RITCHEY P, JARVI J. The average GPA is 3.54. On average, 60.89% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "2.51"
+    },
+    {
+      "Course Number": "432",
+      "Course Name": "Accessible Computing",
+      "Description": "Exploration of the characteristics of traditionally disenfranchised user populations due to disability including discrimination; universal design concepts; exploration of ethical and legal motivations for creating accessible technology; development, evaluation, design, and implementation of equitable and inclusive software and computer based solutions; study of multiple existing accessibility standards",
+      "Difficulty": "0.81"
+    },
+    {
+      "Course Number": "433",
+      "Course Name": "Formal Languages and Automata",
+      "Description": "Basic types of abstract languages and their acceptors; the Chomsky hierarchy; solvability and recursive function theory; application of theoretical results to practical problems.\n\nIs taught by WELCH J, SZE S, CHEN J, WILLIAMS T. The average GPA is 2.95. On average, 32.23% of students get an A, and 1.33% get an F or Q.",
+      "Difficulty": "4.45"
+    },
+    {
+      "Course Number": "434",
+      "Course Name": "Compiler Design",
+      "Description": "Programming language translation; functions and general organization of compiler design and interpreters; theoretical and implementation aspects of lexical scanners; parsing of context free languages; code generation and optimization; error recovery.\n\nIs taught by MCGUIRE T, RAUCHWERGER L (H), HORDEMANN G, RAUCHWERGER L, NGUYEN K. The average GPA is 2.68. On average, 48.02% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "435",
+      "Course Name": "Parallel Computing",
+      "Description": "Overview of parallel computing technology and programming methods; includes multiprocessor architectures, programming tools, parallel performance, parallel algorithms, and applications of parallel computing.\n\nIs taught by SARIN V (H), SARIN V, DAVIS T, PEARCE O. The average GPA is 3.32. On average, 56.06% of students get an A, and 0.23% get an F or Q.",
+      "Difficulty": "4.34"
+    },
+    {
+      "Course Number": "436",
+      "Course Name": "Computer-Human Interaction",
+      "Description": "Comprehensive study of the Computer-Human Interaction (CHI) area; includes history and importance of CHI; CHI design theories; modeling of computer users and interfaces; empirical techniques for task analysis and interface design; styles of interaction and future directions of CHI including hypermedia and computer-supported collaborative work.\n\nIs taught by KIM J, HAMMOND T, KIM J (H), MOORE J (H), SHIPMAN F, MOORE J, FURUTA R. The average GPA is 3.68. On average, 73.18% of students get an A, and 0.08% get an F or Q.",
+      "Difficulty": "0.79"
+    },
+    {
+      "Course Number": "438",
+      "Course Name": "Distributed Systems",
+      "Description": "Principles and techniques for engineering distributed systems with topics including communication, concurrency, programming paradigms, naming, managing shared state, caching, synchronization, reaching agreement, fault tolerance, security, middleware and distributed applications; design, implement and debug large software systems.\n\nIs taught by STOLERU R (H), STOLERU R, MOORE J, CAVERLEE J. The average GPA is 3.1. On average, 36.32% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "439",
+      "Course Name": "Data Analytics for Cybersecurity",
+      "Description": "Theoretical foundations, algorithms and methods of data analytics for cybersecurity; study of data analytics including cluster analysis, supervised machine learning, anomaly detection, and visualization applied to cyber attacks, anomaly detection, vulnerability analysis, strategic manipulation, propaganda and other topics",
+      "Difficulty": "2.24"
+    },
+    {
+      "Course Number": "440",
+      "Course Name": "Quantum Algorithms",
+      "Description": "Introduction to the design and analysis of quantum algorithms; basic principles of the quantum circuit model; gives a gentle introduction to basic quantum algorithms; reviews recent results in quantum information processing.\n\nIs taught by KLAPPENECKER A, SONG F. The average GPA is 3.45. On average, 63.89% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "3.67"
+    },
+    {
+      "Course Number": "441",
+      "Course Name": "Computer Graphics",
+      "Description": "Principles of interactive computer graphics; 2-D and 3-D rendering pipelines, including geometric object and view transformations, projections, hidden surface removal, and rasterization; lighting models for local and global illumination; hierarchical models of 3-D objects; systems and libraries supporting display and user interaction.\n\nIs taught by KEYSER J, KHADEMI KALANTARI N (H), SCHAEFER S, SUEDA S, KHADEMI KALANTARI N, CHAI J, SUEDA S (H). The average GPA is 2.77. On average, 36.26% of students get an A, and 1.49% get an F or Q.",
+      "Difficulty": "4.17"
+    },
+    {
+      "Course Number": "442",
+      "Course Name": "Scientific Programming",
+      "Description": "Introduction to numerical algorithms fundamental to scientific and engineering applications of computers; elementary discussion of error; algorithms, efficiency; polynomial approximations, quadrature and systems of algebraic and differential equations",
+      "Difficulty": "3.18"
+    },
+    {
+      "Course Number": "443",
+      "Course Name": "Game Development",
+      "Description": "Aesthetic and technical aspects of computer game development, including game mechanics, story development, content creation and game programming; includes game design, interface design, 3D modeling and animation, graphics algorithms, shader programming and artificial intelligence; group project includes the design and development of a game from start to finish.\n\nIs taught by SALEEM W, THOMAS A, SUEDA S, SCHAEFER S, BRACKENRIDGE R, ANDREASSON M, GOOCH B. The average GPA is 3.75. On average, 76.87% of students get an A, and 0.36% get an F or Q.",
+      "Difficulty": "1.62"
+    },
+    {
+      "Course Number": "444",
+      "Course Name": "Structures of Interactive Information",
+      "Description": "A systems approach to the programming, design, authoring and theory of hypermedia; object-oriented visual and interactive programming; visual design, including color, space, text and layering; the reference as a metadisciplinary structure; collecting and sampling; ontologies, maps and navigation as means of structuring information; create dynamic hypermedia that is expressive and interpretive",
+      "Difficulty": "4.01"
+    },
+    {
+      "Course Number": "445",
+      "Course Name": "Computers and New Media",
+      "Description": "Potential and realized impact of computers in the design of new media; relationship between authors and readers of interactive material; influence of media design on the content expressed.\n\nIs taught by SHIPMAN F, FURUTA R (H), FURUTA R. The average GPA is 3.67. On average, 70.32% of students get an A, and 0.19% get an F or Q.",
+      "Difficulty": "0.59"
+    },
+    {
+      "Course Number": "446",
+      "Course Name": "Virtual Reality",
+      "Description": "Theory and practice of virtual reality; interactive 3D virtual environments; input/output devices, 3D interaction techniques, augmented reality, role of realism in VR, navigation techniques, design guidelines and evaluation methods.\n\nIs taught by SEO J. The average GPA is 3.83. On average, 83.33% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "2.87"
+    },
+    {
+      "Course Number": "447",
+      "Course Name": "Data Visualization",
+      "Description": "Visual representation and design of data and information; 3D visualization, infographics, data narratives, principles of visual data encoding and interaction techniques.\n\nIs taught by SHIPMAN F, MCNAMARA A. The average GPA is 3.59. On average, 81.4% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "2.21"
+    },
+    {
+      "Course Number": "448",
+      "Course Name": "Computational Photography",
+      "Description": "Cameras and the image formation process; basic image and video processing tools like sampling, filtering and pyramids; several image-based algorithms, including panorama creation, lightfields, image retargeting, high dynamic range imaging and texture synthesis",
+      "Difficulty": "2.78"
+    },
+    {
+      "Course Number": "449",
+      "Course Name": "Applied Cryptography",
+      "Description": "Applied cryptography; secure multi-party computations; zero knowledge proofs; blockchain and machine learning",
+      "Difficulty": "3.75"
+    },
+    {
+      "Course Number": "450",
+      "Course Name": "Computer Animation",
+      "Description": "Investigation of computational problems in computer animation; study of the mathematical and algorithmic foundations behind various techniques used for computer animation for real-time and offline use",
+      "Difficulty": "3.08"
+    },
+    {
+      "Course Number": "451",
+      "Course Name": "Software Reverse Engineering",
+      "Description": "Overview of the compilation mechanism to generate executable files and raw binary codes from source codes; executable file formats for an operating system to run the binary code; disassembly algorithms and control graph analysis; static and dynamic analyses; case studies on code obfuscation, codebreaking, malware analysis.\n\nIs taught by LIU J. The average GPA is 3.38. On average, 54.42% of students get an A, and 0.88% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "452",
+      "Course Name": "Robotics and Spatial Intelligence",
+      "Description": "Algorithms for executing spatial tasks; path planning and obstacle aance in two- and three-dimensional robots--configuration space, potential field, free-space decomposition methods; stable grasping and manipulation; dealing with uncertainty; knowledge representation for planning--geometric and symbolic models of the environment; task-level programming; learning\n\nIs taught by YEH S, SONG D. The average GPA is 3.19. On average, 38.51% of students get an A, and 0.62% get an F or Q.",
+      "Difficulty": "4.28"
+    },
+    {
+      "Course Number": "456",
+      "Course Name": "Real-Time Computing",
+      "Description": "Introduction to principles and applications of real-time computing; system architecture; D/A and A/D conversion; synchronous data acquisition and analysis; computers in real-time control; asynchronous monitoring and control; resource scheduling; interfacing issues; lectures and laboratory",
+      "Difficulty": "4.16"
+    },
+    {
+      "Course Number": "461",
+      "Course Name": "Embedded Systems for Medical Applications",
+      "Description": "Principles of embedded system architecture and programming; fundamentals and theoretical foundations of wireless communication systems; hands-on experiences of how an embedded system could be used to solve problems in biomedical engineering; projects on wireless sensors and imaging for medical devices\n\nIs taught by JAFARI R. The average GPA is 3.0. On average, 20.0% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "463",
+      "Course Name": "Networks and Distributed Processing",
+      "Description": "Basic hardware/software, architectural components for computer communications; computer networks, switching, routing, protocols and security; multiprocessing and distributed processing; interfacing operating systems and networks; case studies of existing networks and network architectures\n\nIs taught by LOGUINOV D. The average GPA is 2.84. On average, 44.34% of students get an A, and 1.26% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "464",
+      "Course Name": "Wireless and Mobile Systems",
+      "Description": "Introduction to wireless and mobile systems; wireless communication fundamentals; wireless medium access control design; transmission scheduling, network and transport protocols over wireless design, simulation and evaluation; wireless capacity; telecommunication systems; vehicular, adhoc, and sensor network systems; wireless security; mobile applications\n\nIs taught by STOLERU R, ALTAWEEL A, AGUMBE SURESH M. The average GPA is 2.98. On average, 34.66% of students get an A, and 0.21% get an F or Q.",
+      "Difficulty": "5"
+    },
+    {
+      "Course Number": "465",
+      "Course Name": "Computer and Network Security",
+      "Description": "Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security\n\nIs taught by GU G (H), CARLISLE M (H), HOUNGNINOU D (H), CARLISLE M, DA SILVA D (H), HOUNGNINOU D, MENDOZA A, ZHANG Y (H), ZHANG Y, DA SILVA D, RITCHEY P, HONG S, GU G, RAGSDALE D. The average GPA is 3.27. On average, 43.57% of students get an A, and 0.17% get an F or Q.",
+      "Difficulty": "3.26"
+    },
+    {
+      "Course Number": "469",
+      "Course Name": "Advanced Computer Architecture",
+      "Description": "Advanced computer architectures including memory designs, pipeline techniques, and parallel structures such as vector computers and multiprocessors\n\nIs taught by KIM E, TERAN E. The average GPA is 3.3. On average, 59.38% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "4.87"
+    },
+    {
+      "Course Number": "470",
+      "Course Name": "Information Storage and Retrieval",
+      "Description": "Representation of, storage of and access to very large multimedia document collections; fundamental data structures and algorithms of current information storage and retrieval systems and relates various techniques to design and evaluation of complete retrieval systems\n\nIs taught by HU X, HUANG R, CAVERLEE J, HUANG R (H). The average GPA is 3.34. On average, 52.43% of students get an A, and 0.11% get an F or Q.",
+      "Difficulty": "2.38"
+    },
+    {
+      "Course Number": "477",
+      "Course Name": "Cybersecurity Risk",
+      "Description": "Risks in cybersecurity; avoidance, acceptance, mitigation, or transference strategies; developing reliable cybersecurity risk assessments to include analysis, categorization, and evaluation; cybersecurity risk audit frameworks\n\nIs taught by DEWITTE P. The average GPA is 3.93. On average, 95.04% of students get an A, and 0.83% get an F or Q.",
+      "Difficulty": "0.92"
+    },
+    {
+      "Course Number": "481",
+      "Course Name": "Seminar",
+      "Description": "Investigation and report by students on topics of current interest in computer science",
+      "Difficulty": "1.75"
+    },
+    {
+      "Course Number": "482",
+      "Course Name": "Senior Capstone Design",
+      "Description": "Development of system integration skills for solving real-world problems in computer science; significant team software project that uses integration of advanced concepts across computer science specializations; projects require design, implementation, documentation and demonstration, as well as design methodology, management process and teamwork",
+      "Difficulty": "3.24"
+    },
+    {
+      "Course Number": "483",
+      "Course Name": "Computer Systems Design",
+      "Description": "Engineering design; working as a design-team member, conceptual design methodology, design evaluations, total project planning and management techniques, design optimization, systems manufacturing costs considerations; emphasis placed upon students' activities as design professionals",
+      "Difficulty": "3.81"
+    },
+    {
+      "Course Number": "485",
+      "Course Name": "Directed Studies",
+      "Description": "Permits work on special project in computer science; project must be approved by the department\n\nIs taught by CARLISLE M, SONG D. The average GPA is 3.83. On average, 82.61% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "1.62"
+    },
+    {
+      "Course Number": "489",
+      "Course Name": "Special Topics in...",
+      "Description": "Special topics in computer science that are new or unique that are not covered in existing courses.\n\nIs taught by CHASPARI T, HAMMOND T, RAGAN E, KHADEMI KALANTARI N, ZHANG Y, DEWITTE P, LUPOLI S, TYAGI A, DA SILVA D, MAHAPATRA R, BETTATI R, SUEDA S, DAUGHERITY W, MOORE J, RITCHEY P, AGUMBE SURESH M, KEYSER J, KEYSER J (H), NAKAMURA E, CAVERLEE J, QUINN M, JI S, DUFFIELD N, RAY K, JI S (H), MURPHY R, HUANG R, GARAY J, JAFARI R, LIU J, CARLISLE M, VALASEK J. The average GPA is 3.4. On average, 61.14% of students get an A, and 1.04% get an F or Q.",
+      "Difficulty": "2.11"
+    },
+    {
+      "Course Number": "491",
+      "Course Name": "Research",
+      "Description": "Research conducted under the direction of faculty member in computer science. May be taken four times for credit\n\nIs taught by CHOE Y (H), FURUTA R, MORTAZAVI B (H), HAMMOND T, GOOCH B (H), WALKER D, CAVERLEE J (H), GOOCH B, HAMMOND T (H), SHELL D (H), HUANG S (H), CHOE Y, RAGSDALE D. The average GPA is 3.97. On average, 98.85% of students get an A, and 0.0% get an F or Q.",
+      "Difficulty": "3.67"
+    }
+  ]
+}

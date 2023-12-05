@@ -1,13 +1,4 @@
-from langchain.document_loaders import WebBaseLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Pinecone
-from langchain.embeddings.openai import OpenAIEmbeddings
-import pinecone
-import os
 from langchain.chat_models import ChatOpenAI
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
-from langchain.document_loaders import TextLoader
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 from langchain.prompts import PromptTemplate
@@ -27,14 +18,6 @@ load_dotenv()
 # CORS(app)
 
 def initialize():
-    pinecone.init(
-        api_key=os.environ['PINECONE_API_KEY'],
-        environment= 'asia-southeast1-gcp-free')
-    index = pinecone.Index('coursecrafter')
-    embeddings = OpenAIEmbeddings(openai_api_key=os.environ['OPENAI_API_KEY'])
-    vectordb = Pinecone.from_documents(documents='', embedding=embeddings, index_name='coursecrafter')
-
-    # retriever = vectordb.as_retriever(k=10)
 
     template = '''I'm trying to run cosine similarity on a user-generated text input against a number of course descriptions. To do this, I will need to convert the user-generated text input into a course description. Using your own knowledge of the content of computer science classes as well as the examples below, you will create the course description. Your description should be a little bit longer and more verbose than the examples.
 
@@ -42,8 +25,10 @@ def initialize():
     User: "I'm interested in low-level languages"
     Assistant: "Principles of embedded system architecture and programming; fundamentals and theoretical foundations of wireless communication systems; hands-on experiences of how an embedded system could be used to solve problems in biomedical engineering; projects on wireless sensors and imaging for medical devices. Programming language translation; functions and general organization of compiler design and interpreters; theoretical and implementation aspects of lexical scanners; parsing of context free languages; code generation and optimization; error recovery. Security principles; common security features and flaws in day-to-day embedded systems; security analysis, vulnerability exploits and security fixes for embedded systems."
 
+
     User: "I like Big Data and want to work in the cloud one day"
     Assistant: "Operating system and distributed systems fields that form the basis of cloud computing such as virtualization, key-value storage solutions, group membership, failure detection, peer to peer systems, datacenter networking, resource management and scalability; popular frameworks such as MapReduce and HDFS and case studies on failure determination. Theoretical foundations, algorithms and methods of data analytics for cybersecurity; study of data analytics including cluster analysis, supervised machine learning, anomaly detection, and visualization applied to cyber attacks, anomaly detection, vulnerability analysis, strategic manipulation, propaganda and other topics. Representation of, storage of and access to very large multimedia document collections; fundamental data structures and algorithms of current information storage and retrieval systems and relates various techniques to design and evaluation of complete retrieval systems."
+
 
     User: "Machine learning"
     Assistant: "Theoretical foundations of machine learning, pattern recognition and generating predictive models and classifiers from data; includes methods for supervised and unsupervised learning (decision trees, linear discriminants, neural networks, Gaussian models, non-parametric models, clustering, dimensionality reduction, deep learning), optimization procedures and statistical inference. Theoretical foundations, algorithms and methods of data analytics for cybersecurity; study of data analytics including cluster analysis, supervised machine learning, anomaly detection, and visualization applied to cyber attacks, anomaly detection, vulnerability analysis, strategic manipulation, propaganda and other topics. Fundamental concepts and techniques of intelligent systems; representation and interpretation of knowledge on a computer; search strategies and control; active research areas and applications such as notational systems, natural language understanding, vision systems, planning algorithms, intelligent agents and expert systems."
@@ -92,37 +77,12 @@ def find_diff_by_number(courses, course_number):
             return course["Difficulty"]
     return None
 
-def find_similar_courses(index, llm_response):
-    # Load course desc and title data
-    file_path = 'courses.json'
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-    courses = data['courses']
-
-    vectorizer = TfidfVectorizer()
-    similarity_dict = {}
-    for i in index:
-        tfidf_matrix = vectorizer.fit_transform([llm_response, i])
-        similarity = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
-        similarity_dict[similarity[0][0]] = i[20:23]
-
-    sorted_similarities = sorted(similarity_dict.items(), reverse=True)
-    max_value = max(item[0] for item in sorted_similarities)
-    scaled_vals = [{"val": item[0], "course_number": item[1], "scaled_val": (item[0] / max_value) * 100, "course_name": "SWE", "course_desc": "A class."} for item in sorted_similarities]
-
-    for item in scaled_vals:
-        number = item["course_number"]
-        item["course_name"] = find_name_by_number(courses, number)
-        item["course_desc"] = find_desc_by_number(courses, number)
-        # item["course_diff"] = find_desc_by_number(courses, number)
-
-    json_string = json.dumps(scaled_vals, indent=4)
-    return json_string
 
 # @app.route('/process_user_input', methods=['POST'])
 def process_user_input():
-    # Load course data from JSON
-    file_path = 'courses.json'
+    # Load course data
+    file_path = 'updated_courses_data.json'
+
     with open(file_path, 'r') as file:
         data = json.load(file)
     courses = data['courses']
@@ -132,7 +92,10 @@ def process_user_input():
 
     llm_chain = initialize()
     llm_response = llm_chain.run(user_input)
-    # llm_response = "Aesthetic and technical aspects of computer game development, including game mechanics, story development, content creation and game programming; includes game design, interface design, 3D modeling and animation, graphics algorithms, shader programming and artificial intelligence; group project includes the design and development of a game from start to finish"
+
+    file_path = 'Data_Files/CatalogWithProfessors.txt'
+    index = create_index_from_file(file_path)
+
 
     # Calculate similarities
     vectorizer = TfidfVectorizer()
@@ -141,37 +104,26 @@ def process_user_input():
         course_desc = course["Description"]
         tfidf_matrix = vectorizer.fit_transform([llm_response, course_desc])
         similarity = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
-        similarity_dict[similarity[0][0]] = course["Course Number"]
+
+        similarity_dict[similarity[0][0]] = i[19:22]
 
     # Sort and scale values
     sorted_similarities = sorted(similarity_dict.items(), reverse=True)
     max_value = max(item[0] for item in sorted_similarities)
-    scaled_vals = [{"val": item[0], "course_number": item[1], "scaled_val": (item[0] / max_value) * 100} for item in sorted_similarities]
+    scaled_vals = [{"val": item[0], "course_number": item[1], "relevance": item[0] * 100} for item in sorted_similarities]
 
     # Add course name and description
     for item in scaled_vals:
         print(item["course_number"], "HELP")
         number = item["course_number"]
-        for course in courses:
-            if course["Course Number"] == number:
-                item["course_name"] = course["Course Name"]
-                item["course_desc"] = course["Description"]
-                item["difficulty"] = course["Difficulty"]
-                break
+
+        item["course_name"] = find_name_by_number(courses, number)
+        item["description"] = find_desc_by_number(courses, number)
+        item["difficulty"] = find_diff_by_number(courses, number)
+
 
     return json.dumps(scaled_vals, indent=4)
 
-
-
-# def main():
-#     llm_chain = initialize()
-#     llm_response = run(llm_chain=llm_chain)
-#     file_path = 'Data_Files/Catalog.txt'
-#     index = create_index_from_file(file_path)
-#     json_string = find_similar_courses(index=index, llm_response=llm_response)
-#     print(json_string)
-
-# main()
 
 if __name__ == '__main__':
     # app.run(host='0.0.0.0', debug=True)
